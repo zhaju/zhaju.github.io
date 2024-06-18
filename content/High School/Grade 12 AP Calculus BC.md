@@ -225,7 +225,8 @@ dx = \frac{dx}{dt}*dt=x'(t)dt
 $$
 $$
 dy=\frac{dy}{dt}*dt=y'(t)dt
-$$Curve Length:
+$$
+Curve Length:
 $$
 \int_{t_a}^{t_b}\sqrt{x'(t)^2+y'(t)^2}*dt
 $$
