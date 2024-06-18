@@ -214,7 +214,8 @@ $$
 Derivative at $t=-\frac{1}{3}$
 $$
 \frac{dy}{dx}= \frac{\left( -\frac{1}{3} \right)^2}{cos(0)}=\frac{1}{9}
-$$Second Derivatives
+$$
+Second Derivatives
 $$
 \frac{d^2y}{dx^2}=\frac{\frac{d}{dt}(\frac{dy}{dx})}{\frac{dx}{dt}}
 $$
