@@ -1,0 +1,1 @@
+[S6 Philosophy Study Doc](https://docs.google.com/document/d/1S7oZVrF8RSp2Y0z0yqSz8XQW2_odlKRMi0ib2uIHdJw/edit?usp=sharing)

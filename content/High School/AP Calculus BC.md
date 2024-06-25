@@ -1,5 +1,7 @@
 [MCV4UP Course Overview](https://docs.google.com/document/d/1zxxu8H_ZE2FBxYEqlFhhqAuRdSdMgtf8XED8eC72FdM/edit)
+
 [AP Calc Classroom](https://apclassroom.collegeboard.org/26/)
+
 [Calc Textbook](https://drive.google.com/file/d/1-eEgYlexam6OOYi00Y4VFwpmeVzwEB6Y/view)
 ## 1. Limits and Continuity
 Definition of the Derivative:

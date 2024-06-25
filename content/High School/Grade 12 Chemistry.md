@@ -1,0 +1,1 @@
+[S5 Chem Study Doc](https://docs.google.com/document/d/1siiKUs1FQmpmJxCFU2b_JfCIUM9x_LYVkM6ZYgJrqhE/edit)
