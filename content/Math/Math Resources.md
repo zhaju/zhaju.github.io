@@ -1,4 +1,4 @@
-As mentioned, I’ve done competitive math for more than 10 years, and written countless contests (including the AMCs, AIME, COMC, and CEMC series). I’ve gained a lot of experience and taught many people, whether that be through [schoolhouse.world](https://schoolhouse.world/), my school’s Math Society, or independent tutoring. Here are some of the handouts and resources I’ve compiled to help grade 7-12 students in learning both curriculum and contest math.
+I’ve done competitive math for more than 10 years, and written countless contests (including the AMCs, AIME, COMC, and CEMC series). I’ve gained a lot of experience and taught many people, whether that be through [schoolhouse.world](https://schoolhouse.world/), my school’s Math Society, or independent tutoring. Here are some of the handouts and resources I’ve compiled to help grade 7-12 students in learning both curriculum and contest math.
 # Quadratics (for Grade 9)
 A 5-part handout made for schoolhouse.world on quadratics:
 1. [Intro to Quadratics](https://zhaju.github.io/Math/quadratics/1_Intro_to_Parabolas.pdf)
