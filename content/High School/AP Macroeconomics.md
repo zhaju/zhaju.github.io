@@ -13,24 +13,24 @@
 ### 1.2 Opportunity Cost and the PPC
 ### 1.3 Comparative Advantage and Trade
 ### 1.4 Demand
-T - Tastes and preferences
-R - Related goods and services
-I - Income of consumers
-B - Buyers
-E - Expectations of the future
+- T - Tastes and preferences
+- R - Related goods and services
+- I - Income of consumers
+- B - Buyers
+- E - Expectations of the future
 ### 1.5 Supply
-I - Input prices 
-N - Number of suppliers
-E - Expectations of future
-R - Related products
-T - Technology
+- I - Input prices 
+- N - Number of suppliers
+- E - Expectations of future
+- R - Related products
+- T - Technology
 ### 1.6 Market Equilibrium
 Elasticity
-S - Substitutes
-P - Proportion of income
-L - Luxury or necessity
-A - Addictive
-T - Time
+- S - Substitutes
+- P - Proportion of income
+- L - Luxury or necessity
+- A - Addictive
+- T - Time
 ## 2. Economic Indicators and the Business Cycle
 ### Circular Flow
 
@@ -195,7 +195,7 @@ $$
 $$
 MPS = 1-MPC
 $$
-Total increase in real GDP = 
+Total increase in real GDP =
 $$
 (1+MPC+MPC^2+MPC^3+\ldots)*$100b
 $$
