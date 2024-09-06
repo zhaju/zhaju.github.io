@@ -1,3 +1,4 @@
+this one isn't a real study doc, just a collection of Jiao's impromptu lectures :)
 ## Plants v2 Lesson 03/31
 ### I. Tropisms
 1. Tropism = The way a plant responds to specific stimuli
