@@ -7,7 +7,7 @@ I'm Julian, a 1A freshman at the University of Waterloo where I'm studying Compu
 
 *the long:*
 
-Over 6 years, I spent roughly 3,000 hours[^1] on public transit commuting to [high school](https://zhaju.github.io/High_School) in downtown Toronto. During that time, I [debated](https://zhaju.github.io/Debate) for the national team, did some [ML research](https://github.com/zhaju), wrote [math contests](https://zhaju.github.io/Math), and met some amazing people. I became particularly interested in the intersection between the sciences and the humanities, namely the applications of computers to solve social problems.
+Over 6 years, I spent roughly 3,000 hours[^1] on public transit commuting to [high school](https://zhaju.github.io/High-School) in downtown Toronto. During that time, I [debated](https://zhaju.github.io/Debate) for the national team, did some [ML research](https://github.com/zhaju), wrote [math contests](https://zhaju.github.io/Math), and met some amazing people. I became particularly interested in the intersection between the sciences and the humanities, namely the applications of computers to solve social problems.
 
 [^1]: 3 hours x 200 days x 5 years
 
