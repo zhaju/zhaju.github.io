@@ -71,7 +71,7 @@ Implicit Differentiation: Differentiate $y$ with respect to $x$
 - Explicitly Defined: $y=f(x)$
 - Implicitly Defined: $y=x$
 
-Inverse Function Theorem: For $f^-1(x)=g(x)$
+Inverse Function Theorem: For $f^{-1}(x)=g(x)$
 $$
 g'(x)=\frac{1}{f'(g(x))}
 $$
