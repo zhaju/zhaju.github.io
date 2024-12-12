@@ -282,13 +282,13 @@ Risk
 Banking Business
 - Cost = Operational, Interest
 - Revenue = Interest, repayment (they want you to invest)
-- Expected return = return on loans * default risk (99%, 80%, ...)
+	- Expected return = return on loans * default risk (99%, 80%, ...)
 	- Mortgages > normal loans because no default risk
 - Balance Sheets = Equity = Net Worth = Assets - Liabilities
 	- If Net Worth < 0 , the bank is insolvent / bankrupt
 	- Most common debt is consumer debt (credit card debt)
 $$
-leverage=\frac{assets}{worth}
+\text{Leverage}=\frac{\text{assets}}{\text{worth}}
 $$
 ### Money Market
 - Banks borrow from each other / central banks at a **short term interest rate**
@@ -483,27 +483,3 @@ Changes in interest rates:
 
 Financial Capital chases high interest rates
 - Investors will gravitate towards higher returns (higher interest rates)
-## Practice Exam
-1. Economic growth = per capital real gross domestic product
-2. Reducing price level = decrease spending, increase interest rates
-3. Spending increase + Interest increase = interest increase + unchanged private investment
-4. Unanticipated increase in gov spending shifts LR Phillips Curve left (less unemployment)
-5. **Crowding Out** = private investment spending decreases b/c interest rates increase b/c government borrowing increases
-6. Anticipated expansion of MS increases nominal GDP and price
-7. Only selling to other countries increases current account surplus
-8. Decreasing taxes means higher nominal GDP
-9. To reduce unemployment, buy bonds to decrease interest rate and increase AD
-10. Central bank selling bonds to commercial banks decreases MS
-11. Current account deficit is financed by a surplus in financial (capital) amount
-12. Firm's optimism about future income shifts AD right, increasing real output and price
-13. Balance = Deposits - Withdrawals
-14. **tight monetary policy = higher interest and less private investment**
-15. multiplier = 1/rr
-16. Recession caused by a decrease in AD
-17. More discouraged workers makes unemployment and labor force participation rate decrease
-18. Gov spending down and private saving up causes real interest down and interest-sensitive spending up
-19. Increased budget deficit = gov spending > tax revenue, and central bank increases MS
-20. CPI doesn't fully measure inflation because improvement in quality of goods/services
-21. Demand-pull inflation increases real output, Cost-push inflation decreases it
-22. Buying bonds increases MS
-23. higher interest = lower inflation = higher employment
