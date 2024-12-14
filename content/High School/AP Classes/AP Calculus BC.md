@@ -17,7 +17,7 @@ f'(a) = \frac{f(a+h)-f(a-h)}{2h}
 $$
 Continuity: A function $f$ is **continuous** at $a$ if
 $$
-lim_{x\to a}f(x)=f(a)
+\lim_{x\to a}f(x)=f(a)
 $$
 But continuity does not imply differentiability - counterexample: $f(x)=|x|$
 ## 2. Derivative Rules
@@ -43,7 +43,7 @@ f'(x)=n \cdot x^{n-1}
 $$
 Definition of $e$ 
 $$
-e = lim_{n\to\infty}(1+\frac{1}{n})^n
+e = \lim_{n\to\infty}(1+\frac{1}{n})^n
 $$
 Product Rule: Let $f(x)=g(x)\cdot h(x)$
 $$
@@ -75,22 +75,18 @@ Inverse Function Theorem: For $f^{-1}(x)=g(x)$
 $$
 g'(x)=\frac{1}{f'(g(x))}
 $$
-Example:
 $$
-f(x)=x^2. g(x)=\sqrt{x}
-$$
-$$
-\frac{1}{2}x^{-1/2} = \frac{1}{2x\left( x^-\frac{1}{2} \right)}
+g'(x) = \frac{1}{2(x^\frac{1}{2})} = \frac{1}{2}x^{-1/2}
 $$
 Inverse Trig Functions
 $$
-\frac{dy}{dx}arcsin(x)=\frac{1}{\sqrt{1-x^2}}
+\frac{dy}{dx}\arcsin(x)=\frac{1}{\sqrt{1-x^2}}
 $$
 $$
-\frac{dy}{dx}arccos(x)=-\frac{1}{\sqrt{1-x^2}}
+\frac{dy}{dx}\arccos(x)=-\frac{1}{\sqrt{1-x^2}}
 $$
 $$
-\frac{dy}{dx}arctan(x)=\frac{1}{1+x^2}
+\frac{dy}{dx}\arctan(x)=\frac{1}{1+x^2}
 $$
 $$
 \frac{dy}{dx}arccot(x)=-\frac{1}{1+x^2}
@@ -108,7 +104,7 @@ f(a+h)=f(a)+f'(a)*h
 $$
 L'Hôpital's Rule
 $$
-lim_{x\to a}\frac{f(x)}{g(x)}=lim_{x\to a}\frac{f'(x)}{g'(x)}
+\lim_{x\to a}\frac{f(x)}{g(x)}=\lim_{x\to a}\frac{f'(x)}{g'(x)}
 $$
 ## 5. Analytical Applications of differentiation
 MVT: If f is continuous and differentiable, there exists a $c\in (a,b)$ such that
@@ -273,10 +269,10 @@ $$
 $$
 ### Polar Functions
 $$
-x=rcos\theta
+x=r\cos\theta
 $$
 $$
-y=rsin\theta
+y=r\sin\theta
 $$
 Area bounded by Polar Curves = Integrals
 ## 10. Vector Algebra
@@ -295,10 +291,10 @@ $$
 ### 5: Dot Product
 "the distance from the vector to the shadow"
 $$
-\vec{v}\cdot\vec{w}=||v_x||||w_x||cos\theta
+\vec{v}\cdot\vec{w}=||v_x||||w_x||\cos\theta
 $$
 $$
-cos\theta=\frac{\vec{u}\cdot\vec{v}}{||\vec{u}||||\vec{v}||}
+\cos\theta=\frac{\vec{u}\cdot\vec{v}}{||\vec{u}||||\vec{v}||}
 $$
 Properties
 1. Square: $\vec{v}\cdot\vec{v}=||\vec{v}||^2$
@@ -309,7 +305,7 @@ Properties
 ### 6: Projections
 "the shadow of v cast onto w"
 $$
-proj_{\vec{w}}\vec{v}=\frac{||\vec{v}||cos\theta}{||\vec{w}||}\vec{w}=\frac{\vec{v}\cdot\vec{w}}{||\vec{w}||^2}\vec{w}
+proj_{\vec{w}}\vec{v}=\frac{||\vec{v}||\cos\theta}{||\vec{w}||}\vec{w}=\frac{\vec{v}\cdot\vec{w}}{||\vec{w}||^2}\vec{w}
 $$
 Unit Vectors
 $$\hat{i}=(1,0,0), \hat{j}=(0,1,0), \hat{k}=(0,0,1)$$
