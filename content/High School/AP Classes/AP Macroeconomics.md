@@ -59,14 +59,14 @@ Employed = number of people currently employed (part + full time)
 Unemployed = number of people looking for work but not employed
 Underemployed = number of part time people that would rather work full time, or people with jobs that don't make full use of their qualifications
 $$
-Unemployment Rate=\frac{Unemployed}{Unemployed+Employed}*100
+\text{Unemployment Rate}=\frac{\text{Unemployed}}{\text{Unemployed+Employed}}*100
 $$
 - Low = 5%, High = 8%
 
 Labor force = Employed + Unemployed
 Labor force participation rate: People not seeking work
 $$
-ParticipationRate=\frac{LaborForce}{Age\geq16}*100
+\text{Participation Rate}=\frac{\text{Labor Force}}{Age\geq16}*100
 $$
 - Excludes children
 - retirees
@@ -97,7 +97,7 @@ Natural Rate of Unemployment
 Economic Fluctuations = tied to success of agriculture and stuff
 ### Inflation
 $$
-GDP Deflator = \frac{NominalGDP}{RealGDP}*1000
+\text{GDP Deflator} = \frac{\text{Nominal GDP}}{\text{Real GDP}}*1000
 $$
 CPI = Consumer Price Index = Price of a basket of goods
 $$
@@ -190,7 +190,7 @@ Spending increases by $100b
 ### MPC and MPS
 - Higher for richer people
 $$
-MPC = \frac{\Delta Consumer Spending}{\Delta ConsumerIncome}
+MPC = \frac{\Delta \text{Consumer Spending}}{\Delta \text{Consumer Income}}
 $$
 $$
 MPS = 1-MPC
@@ -200,7 +200,7 @@ $$
 (1+MPC+MPC^2+MPC^3+\ldots)*$100b
 $$
 $$
-total = \frac{1}{1-MPC} * principal=\frac{1}{MPS}
+\text{Total} = \frac{1}{1-MPC} * \text{Principal}=\frac{1}{MPS}
 $$
 The Multiplier and the Great Depression
 - most economists thought 1929-33 was a collapse in investment spending
