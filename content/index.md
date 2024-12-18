@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Welcome!
 ---
 *the short:*
 
@@ -13,4 +13,4 @@ Over 6 years, I spent roughly 3,000 hours[^1] on public transit commuting to [hi
 
 More personal: I'm about as type A as it gets. I love food, and have been cooking for family and friends for 5 years. My room is inhabited by many stuffed animals-- among them are a dog, a moose, and a big polar bear. I've been boxing inconsistently for about 2 years. My favourite author is Christopher Hitchens; favourite film is *Catch Me If You Can*; favourite show is *Better Call Saul*; favourite artist is NIKI; and my favourite place to be is here, right on your screen :)[^2]
 
-[^2]: Thanks to [Randy](https://randyxchang.com/navigation/about) for inspiring this page.
+[^2]: Thanks to [Randy](https://randyxchang.com/1/about) for inspiring this page.
