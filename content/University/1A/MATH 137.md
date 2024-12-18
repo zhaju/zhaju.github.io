@@ -1,4 +1,3 @@
-[Anthony Zhang](https://anthony-zhang.me/University-Notes/MATH137/MATH137.html)
 # 0 | Pre-Calculus Review
 ## 0.1 | Real-Valued Functions
 Function:

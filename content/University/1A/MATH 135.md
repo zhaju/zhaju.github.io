@@ -1,6 +1,3 @@
-[Carmen Bruni's Resources](https://cs.uwaterloo.ca/~cbruni/Math135Resources/courseNotes.php)
-[Anthony Zhang's Notes](https://anthony-zhang.me/University-Notes/MATH135/MATH135.html)
-[Waterloo Textbook](https://cs.uwaterloo.ca/~cbruni/pdfs/Math135Notes/M135Notes_S2018.pdf)
 # 0 | Overview
 Course Goals
 - Understand the precise meaning of mathematical statements
