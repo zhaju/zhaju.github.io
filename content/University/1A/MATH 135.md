@@ -1,37 +1,14 @@
-```
-MATH 135
-Algebra 
-Carrie Knoll
-TST M 7:00-8:50PM (10/07)
-TUT T 5:30-6:20PM RCH 101 TBA
-LEC MWF 3:30-4:20PM MC 4063 
-
-Drop-in office hours MC 6236 (estimate)
-M 2:30-3:20PM
-T: 10-11AM
-F: 10-11AM
-```
-
 [Carmen Bruni's Resources](https://cs.uwaterloo.ca/~cbruni/Math135Resources/courseNotes.php)
 [Anthony Zhang's Notes](https://anthony-zhang.me/University-Notes/MATH135/MATH135.html)
 [Waterloo Textbook](https://cs.uwaterloo.ca/~cbruni/pdfs/Math135Notes/M135Notes_S2018.pdf)
 # 0 | Overview
-- Proofs via many theorems
-- Before midterm is easy (truth tables, boolean, proofs by direct, contradiction, contrapositive, induction, strong induction)
-- After midterm is hard (10-12 hr for written, 1-2 hrs quizzes, 4-5 hrs studying)
-- Sets, GCD (Bezus Lemma, Coprime Indivisibility, Extended Euclidean Algorithm, Linear Diophantine w 2 variables, congruence and mods, Fermat's Little Theorem, Chinese Remainder Theorem, Splitting Modulus Theorem)
-- Cryptography: RSA public encryption scheme
-- Complex numbers + polynomials (Fundamental Theorem of Algebra, conjugate roots theorem, RRT)
-- 15-19 hr / wk
-- 5/5
-
 Course Goals
 - Understand the precise meaning of mathematical statements
 - Learn to communicate effectively
 - Get better at writing mathematical proofs
 - Become comfortable with arithmetic and algebra over some common systems (eg. the integers modulo n)
 # 1 | Intro to Mathematical Language 
-## 1.1 Intro to Statements and Proofs (09/04)
+## 1.1 Intro to Statements and Proofs
 Definition
 - Statement = True or False
 - Proof = Rigorous argument establishing the truth of a statement with no doubt
@@ -61,7 +38,7 @@ Building a statement
 - Quantification: $=, >, <$
 
 > Ex: For all integers $x, x^2-x\geq0$
-## 1.2 | Domains and Quantifiers (09/06)
+## 1.2 | Domains and Quantifiers
 
 Statements have four parts:
 1. Quantifier
@@ -118,7 +95,7 @@ Note about nested quantifiers
 - If quantifiers are different types, order matters!
 - ex: "there exists an x below every y" VS "every y has an x below it"
 # 2 | Logical Analysis of Mathematical Statements
-## 2.1 | Logical Operators (09/09)
+## 2.1 | Logical Operators
 
 Logical Connectives / Logical Operators
 - AND = $\land$
@@ -209,7 +186,7 @@ $$
 B\lor(\neg A)&\equiv B\lor(\neg A) && \text{(Commutative Laws)}
 \end{align*}
 $$
-## 2.2 | Implication (09/10)
+## 2.2 | Implication
 
 Implication:
 $$
@@ -251,7 +228,7 @@ $$
 | F   | T   | F         |
 | F   | F   | T         |
 # 3 | Proving Mathematical Statements
-## 3.1 | Universally Quantified Statements (09/11)
+## 3.1 | Universally Quantified Statements
 
 Direct Proof: Proof of the given statement without any logical tricks (contradiction, contrapositive)
 Don't assume the statement is true
@@ -326,7 +303,7 @@ Therefore, in each case we have $|x-3|+2|x+2|\geq5$ as needed.
 	1. counterexample: x=1
 2. $\forall x\in\mathbb{R}, \exists y\in\mathbb{R}, x>y$
 	1. disproof: pick y=x-1
-## 3.2 | Existentially Quantified Statements (09/13)
+## 3.2 | Existentially Quantified Statements
 
 PROVING EXISTENTIALLY QUANTIFIED STATEMENTS
 $$
@@ -383,7 +360,7 @@ $$
 $$
 Since $(8k+7)\in\mathbb{Z}$, we have shown that $2^{2x+3}+6$ is even.
 ## 3.4 | Divisibility
-## 3.4.0 | Math Words (09/16)
+## 3.4.0 | Math Words
 Math Words
 - Definitions
 - Propositions
@@ -412,7 +389,7 @@ Examples
 > Ex: Assuming $14|n$, prove $7|n$
 - $n=14k=7(2k)$
 - $\exists l, n=7l$
-## 3.4.2 | Results about divisibility / TD & DIC (09/18)
+## 3.4.2 | Results about divisibility / TD & DIC
 
 > Proposition (Transitivity of divisibility / TD):
 > For all integers $a,b,c$, if $a|b$ and $b|c$ then $a|c$
@@ -439,7 +416,7 @@ $$
 \forall a,b,c\in\mathbb{Z}, \forall x,y\in\mathbb{Z}, a|(bx+cy)\implies(a|b\land a|c)
 $$
 CAUTION: It is not true to say that $a|(b+c)\implies a|b$
-## 3.5 | Proof by Contrapositive (09/18)
+## 3.5 | Proof by Contrapositive
 $$
 \text{Proving } A\implies B \text{ by proving } \neg B\implies\neg A
 $$
@@ -458,7 +435,7 @@ Cool Thing: Method of Elimination
 $$
 A\implies(B\lor C)\equiv(A\land(\neg B))\implies C
 $$
-## 3.6 | Proof by Contradiction (09/20)
+## 3.6 | Proof by Contradiction
 
 Proof by Contradiction:
 - A statement A must be either T or F. If we can prove that A cannot be False, we prove that it is true.
@@ -490,12 +467,12 @@ $$
 This means that $a=1,-1$, so $a<2$ as needed.
 # 4 | Induction
 ## 4.1 | Notation for Summation, Products, and Recurrences
-## 4.2 | Proof by Induction (09/27)
+## 4.2 | Proof by Induction
 Weak Induction:
 1. Prove $P(1)$
 2. $\forall k\in\mathbb{N}, P(k)\implies P(k+1)$
 Then we can conclude $\forall n\in\mathbb{N}, P(n)$
-## 4.3 | Proof by Strong Induction (09/30)
+## 4.3 | Proof by Strong Induction
 Strong Induction:
 Let $P(n)$ be an open sentence about a natural number n.
 1. $P(1)$
@@ -530,7 +507,7 @@ x_{k+1}&=2x_k+15x_{k+1} &&\text{sequence definition} \\
 \end{align*}
 $$
 By strong induction, the statement is true.
-# 5 | Sets (09/17)
+# 5 | Sets
 ## 5.1 | Set Definitions
 Definition: A set is a collection of elements
 
@@ -623,7 +600,7 @@ Backwards
 
 > Definition (Disjoint Sets): Two sets S and T are disjoint when $S\cap T=\emptyset$
 # 6 | GCD
-## 6.1 | Definition of GCD (09/30)
+## 6.1 | Definition of GCD
 
 > (Proposition) Bounds by Divisibility:
 > For all $a,b\in\mathbb{Z}$, if $b\mid a$ and $a\neq 0$, then $b\leq |a|$
@@ -641,7 +618,7 @@ And so $b\leq|a|$ as needed.
 
 When do $a, b$ have a GCD?
 - When $a,b\neq 0$
-## 6.2 | GCDs and Remainders (10/02)
+## 6.2 | GCDs and Remainders
 > (Proposition) Division Algorithm
 > For all $a\in\mathbb{Z}, b\in\mathbb{Z}, b>0$, there must exist unique integers $q, r$ such that
 $$
@@ -695,7 +672,7 @@ $$
 	1. No: Suppose (for a contradiction) that $1239x+735y=25$ for some $x,y$. 
 	2. Since $21\mid1239$ and $21\mid735$, we must have by DIC that $21\mid (1239x+735y)$. 
 	3. But this means $21\mid25$, which is a contradiction. Thus, no $x,y$ exist.
-## 6.4 | Different characterization of GCDs (10/04)
+## 6.4 | Different characterization of GCDs
 
 > (Proposition) Bezout's Lemma: For all $a,b\in\mathbb{Z}$, there must exist $x,y\in\mathbb{Z}$ such that
 $$
@@ -725,7 +702,7 @@ Since $c\mid a$ and $c\mid b$, $c\mid as+bt$
 By (B), we have that $c\mid d$
 Since $c\mid d$ and $d\neq 0$, we have $c\leq d$ by Bounds by Divisibility. Since $d>0, c\leq d$
 Thus, $c\leq d$ as desired.
-## 6.5 | Extended Euclidean Algorithm (10/07)
+## 6.5 | Extended Euclidean Algorithm
 
 Given $a,b\in\mathbb{Z}, 0<b\leq a$, the following algorithm calculates $gcd(a,b)$ and finds its integer combination
 
@@ -776,7 +753,7 @@ $d=1, x=-139, y=1444$
 $$
 (c\mid a) \land (c\mid b)\implies c\mid gcd(a,b)
 $$
-## 6.6 | Coprime Integers (10/09)
+## 6.6 | Coprime Integers
 
 > Statement 1: Prove that $(5\mid n) \land (8\mid n)\implies 40\mid n$
 
@@ -834,40 +811,40 @@ Therefore, $gcd(ab, c)=1$ by CCT
 
 Counterexample: $a=4, b=3, c=6$
 We can fix this by making $c$ coprime with $a$ or $b$
-## 6.7 | Primes and prime factorizations (10/11)
+## 6.7 | Primes and prime factorizations
 
-> [! Proposition: Prime Factorization]
+> Proposition: Prime Factorization
 > Every natural number $n\geq2$ can be written as a product of primes
-> 
-> PROOF: We use induction
-> 
-> BASE CASE: $P(2)$ is true
-> 
-> INDUCTIVE STEP: Let $k\in\mathbb{N}, k\geq2$
-> Assume that $P(i)$ is true for all $i\in\mathbb{Z}, 2\geq i\geq k$
-> Now, consider $k+1$
-> If $k+1$ is prime, then $P(k+1)$ is true
-> If $k+1$ is not prime, then $k+1$ is composite. This means we can write $k+1=rs$ for some $r,s\in\mathbb{Z}, r,s\in(2,k)$. 
-> By the inductive hypothesis, $r,s$ can be written as a product of primes. It follows that $k+1=rs$ can be written as a product of primes. This means that $P(k+1)$ is true as well.
-> Therefore, $P(n)$ is true for all $n\geq2, n\in\mathbb{N}$ by induction.
 
-> [! Proposition: Euclid's Theorem]
+PROOF: We use induction
+
+BASE CASE: $P(2)$ is true
+
+INDUCTIVE STEP: Let $k\in\mathbb{N}, k\geq2$
+Assume that $P(i)$ is true for all $i\in\mathbb{Z}, 2\geq i\geq k$
+Now, consider $k+1$
+If $k+1$ is prime, then $P(k+1)$ is true
+If $k+1$ is not prime, then $k+1$ is composite. This means we can write $k+1=rs$ for some $r,s\in\mathbb{Z}, r,s\in(2,k)$. 
+By the inductive hypothesis, $r,s$ can be written as a product of primes. It follows that $k+1=rs$ can be written as a product of primes. This means that $P(k+1)$ is true as well.
+Therefore, $P(n)$ is true for all $n\geq2, n\in\mathbb{N}$ by induction.
+
+> Proposition: Euclid's Theorem
 > There are infinitely many primes.
-> 
-> PROOF: Multiply every prime together, then add 1
+ 
+PROOF: Multiply every prime together, then add 1
 
-> [! Proposition: Euclid's Lemma]
-> For all $a,b\in\mathbb{Z}$ $p\mid ab$ for all prime numbers $p$, then $p\mid a$ or $p\mid b.$
+Proposition: Euclid's Lemma
+For all $a,b\in\mathbb{Z}$ $p\mid ab$ for all prime numbers $p$, then $p\mid a$ or $p\mid b.$
 
-> [! Proposition: Fundamental Theorem of Arithmetic]
-> Every natural number $n\geq2$ can be written as a unique product of prime factors
-> Alternatively, for all $n$ there exists a unique prime factorization of n:
+Proposition: Fundamental Theorem of Arithmetic
+Every natural number $n\geq2$ can be written as a unique product of prime factors
+Alternatively, for all $n$ there exists a unique prime factorization of n:
 
-## 6.8 | Finding Prime Factors (10/21)
-> [!Proposition: Finding a prime factor]
+## 6.8 | Finding Prime Factors
+> Proposition: Finding a prime factor
 > Every natural number $n\geq2$ is either prime or has a prime divisor that is less than or equal to $\sqrt{n}$
 
->[! Proposition: Divisors from Prime Factorization]
+>Proposition: Divisors from Prime Factorization
 >Let $n$ and $c$ be positive integers and suppose that $$
 n=p_1^{a_1}p_2^{a_2}\cdots p_k^{a_k}
 $$ Then $c$ is a divisor of $n$ if and only if $$

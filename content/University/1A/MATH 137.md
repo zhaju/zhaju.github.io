@@ -1,28 +1,5 @@
-```
-MATH 137
-Calculus 1
-Athira Satheesh Kumar
-TST M 7:00-8:50PM (10/21)
-TUT W 5:30-6:20PM RCH 101 TBA
-LEC MWF 4:30-5:20PM RCH 103 
-
-Office Hours:
-T 4:30-6:30pm ZOOM
-```
-
 [Anthony Zhang](https://anthony-zhang.me/University-Notes/MATH137/MATH137.html)
-# 0 | Overview
-- Sequences and convergence (epsilon n, epsilon delta)
-- Squeeze theorem, Monotone convergence theorem, Sequential characterization, IVT, Continuity, Bisection method
-- First half is confusing, Second half is easy (AP Calc)
-- Derivatives, extrema, inflection, concavity, increasing/decreasing, curve-sketching, LLA, implicit and log differentiation, MVT, L'Hopitals
-- Taylor polynomials / Taylor theorem
-- Quizzes are hard (2-3hr), Assignments are easy (1-2hr), Studying (2-4hr)
-	- Quizzes are "select all that apply"
-- 7-10 hr / wk
-- BAD: video lectures which suck
-- 3/5
-# 0 | Pre-Calculus Review (09/04)
+# 0 | Pre-Calculus Review
 ## 0.1 | Real-Valued Functions
 Function:
 - Vertical Line Test
@@ -85,7 +62,7 @@ Even or Odd
 Find the Inverse
 1. $f^{-1}(x)=\sqrt{\frac{4x-13}{13}}$
 2. $x=3y^2-2y+5, f^{-1}(5)=0$
-## 0.2 | Polynomials (09/06)
+## 0.2 | Polynomials
 
 > Def: Polynomials are functions of the form
 $$
@@ -116,7 +93,7 @@ Proof: Assume WLOG that $x\leq y$
 Case 1: $z<x$
 Case 2: $x\leq z\leq y$
 Case 3: $y<z$
-### Triangle Inequality 2 (09/09)
+### Triangle Inequality 2
 > Triangle Inequality 2: For all $x,y\in\mathbb{R}$
 $$
 x+y\leq|x|+|y|
@@ -159,7 +136,7 @@ $$
 $$
 x\in\left( -\infty,-\frac{2}{5} \right)\cup\left(  \frac{5}{2}, \infty  \right)
 $$
-## 1.2 | Sequences and Limits (09/11)
+## 1.2 | Sequences and Limits
 ### Uniqueness of Sequence Limit
 
 > (Uniqueness of Sequence Limit)
@@ -201,7 +178,7 @@ Thus, for every $\epsilon>0$, let $N=\frac{1}{\sqrt{\epsilon}}$. Then, for all $
 $$
 |a_n-L|=\frac{1}{n^2}<\frac{1}{\left( \frac{1}{\sqrt{\epsilon}} \right)^2}
 $$
-### More Epsilon-N (09/13)
+### More Epsilon-N
 Epsilon-Delta: every function - its limit will always be less than the smallest real number
 
 > Show that $\lim_{n\to\infty}{\frac{3n+2}{4n+3}=\frac{3}{4}}$ for all arbitrary $\epsilon$
@@ -232,7 +209,7 @@ $$
 \frac{1}{16n+12}<\epsilon\implies 16n+12>\frac{1}{\epsilon}\implies n > \frac{1}{16}\left( \frac{1}{\epsilon}-12 \right)=N
 $$
 ## 1.4 | Squeeze Theorem
-### Squeeze Theorem (09/16)
+### Squeeze Theorem
 > (Squeeze Theorem for Sequences)
 > If $a_n\leq b_n\leq c_n$ for all $n>M$ (for some $M\in\mathbb{N}$) and $\lim_{n\to\infty} a_n=L=\lim_{n\to\infty}$, then $\lim_{n\to\infty} b_n=L$ as well
 
@@ -278,7 +255,7 @@ Greatest Lower Bound $(glb)$ and Least Upper Bound $(lub)$
 > Ex: $S={x\in\mathbb{Q}:x^2<2}$
 - $lub(S)=\sqrt{2}$
 - $glb(s)=-\sqrt{2}$
-### Monotone Convergence Theorem (09/20):
+### Monotone Convergence Theorem:
 MONOTONE = Strictly increasing or decreasing
 
 (Theorem 1.5.7 in notes)
@@ -331,7 +308,7 @@ $$
 $$ If for all $\epsilon$ there exists $\delta>0$ such that $$
 0<|x-a|<\delta\implies |f(x)-L|<\epsilon
 $$
-### Epsilon-Delta Examples (09/25)
+### Epsilon-Delta Examples
 >Example: Show that $\lim_{x\to3}3x+1=10$
 
 Aside:
@@ -406,7 +383,7 @@ $$
 $$
 Contradiction!
 ## 2.2 | Sequential Characterization of Limits
-## 2.3 | One-Sided Limits (09/30)
+## 2.3 | One-Sided Limits
 
 > Example: show that $\lim_{x\to\infty} \frac{|x|}{x}$ does not exist.
 
@@ -418,7 +395,7 @@ $$
 | \frac{|x|}{x}-1|= | \frac{x}{x}-1|= |1-1|=0<\epsilon
 $$
 Similarly, $\lim_{x\to\infty^-}f(x)=-1$ so the one sided limits are not equal.
-## 2.4 | Fundamental Trig Limit (10/02)
+## 2.4 | Fundamental Trig Limit
 
 > (Theorem) Fundamental Trig Limit) $$
 \lim_{x\to\infty} \frac{sin(x)}{x}=1
@@ -447,7 +424,7 @@ $=\frac{4}{5}$
 
 > (Definition) Horizontal Asymptotes
 > Let $f(x)$ be a function and $L\in\mathbb{R}$. We say that the line with equation $y=L$ is a horizontal asymptote of $f(x)$ if wither $\lim_{x\to\infty} f(x)=L$ or $\lim_{x\to-\infty} f(x)=L$
-## 2.6 | Fundamental Log Limit (10/04)
+## 2.6 | Fundamental Log Limit
 > (Definition) Fundamental Log Limit
 $$
 \lim_{x\to\infty} \frac{ln(x)}{x}=0
@@ -463,7 +440,7 @@ Similarly, if $\lim_{x\to a^+} f(x)=\pm \infty$ or $\lim_{a\to a^-}f(x)=\pm\inft
 > Example: $$
 \lim_{x\to 2^-} \frac{x+1}{x-2}=\frac{3}{0} 
 $$ So the limit is $\pm\infty$
-## 2.8 | Continuity (10/07)
+## 2.8 | Continuity
 
 Fact about continuity: 
 $f(x)$ is continuous at $x=a$ if and only if $\lim_{h\to0}f(a+h)=f(a)$
