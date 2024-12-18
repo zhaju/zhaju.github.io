@@ -3,7 +3,7 @@ title: Welcome!
 ---
 *the short:*
 
-I'm Julian, a 1A freshman at the [University of Waterloo](https://zhaju.github.io/University/1A) where I'm studying Computing and Financial Management (CFM). My resume is [here](https://zhaju.github.io/resume.pdf). 
+I'm Julian, a 1A freshman at the [University of Waterloo](https://zhaju.github.io/University/1A) studying Computing and Financial Management (CFM). My resume is [here](https://zhaju.github.io/resume.pdf). 
 
 *the long:*
 
