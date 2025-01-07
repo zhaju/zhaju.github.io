@@ -420,7 +420,8 @@ $$
 > Example: $\forall m\in\mathbb{Z}$, if $m^2+4x-2$ is odd, then $m$ is odd.
 
 Proof: We prove the contrapositive: If $m$ is even, then $m^2+4x-2$ is even.
-Let $m=2k$ $$
+Let $m=2k$ 
+$$
 \begin{align*}
 m^2+4x-2&=(2k)^2+4(2k)-2\\
 &=4k^2+8k-2\\
@@ -1175,7 +1176,7 @@ $$
 By CRT, each of (A) and (B) has a unique solution $\mod 55$
 $$
 n\equiv 15, 40\mod 55
-	$$
+$$
 # 9 | RSA Public-Key Encryption Scheme
 ## 9.1 | Public-Key Cryptography
 
@@ -1671,7 +1672,8 @@ Examples:
 Exercise: Factor
 $$
 f(z)=z^3+(1-4i)z^2+(-4-4i)z-4
-$$$f(-1)=0$, so by Factor Theorem, 
+$$
+$f(-1)=0$, so by Factor Theorem, 
 $$
 f(z)=(z+1)(z^2-4iz-4)
 $$
@@ -1698,5 +1700,3 @@ Factoring in $\mathbb{R}[x]$:
 
 > Proposition 
 > All real polynomials can be written as a product of linear and quadratic factors
-
-

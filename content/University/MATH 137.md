@@ -302,9 +302,12 @@ $$
 >Informal definition of a limit: The limit as $x$ approaches $a$ of $f(x)$ is $L$ if $f(x)$ is very close to $L$ when x is very close to $a$
 
 > (Definition) Formal Limit Definition
-> Let $f(x)$ be a function and $a\in\mathbb{R}$. We say that the limit as $f(x)$ approaches a from the left is L and write $$
+> Let $f(x)$ be a function and $a\in\mathbb{R}$. We say that the limit as $f(x)$ approaches a from the left is L and write 
+$$
 \lim_{x\to a^-} f(x)=L
-$$ If for all $\epsilon$ there exists $\delta>0$ such that $$
+$$
+> If for all $\epsilon$ there exists $\delta>0$ such that
+$$
 0<|x-a|<\delta\implies |f(x)-L|<\epsilon
 $$
 ### Epsilon-Delta Examples
