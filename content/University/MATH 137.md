@@ -399,7 +399,8 @@ $$
 Similarly, $\lim_{x\to\infty^-}f(x)=-1$ so the one sided limits are not equal.
 ## 2.4 | Fundamental Trig Limit
 
-> (Theorem) Fundamental Trig Limit) $$
+> (Theorem) Fundamental Trig Limit)
+$$
 \lim_{x\to\infty} \frac{sin(x)}{x}=1
 $$
 

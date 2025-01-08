@@ -427,14 +427,14 @@ m^2+4x-2&=(2k)^2+4(2k)-2\\
 &=4k^2+8k-2\\
 &=2(k^2+4k-2)
 \end{align*}
-$$Thus, $m^2+4x-2$ is even, proving the contrapositive and thus proving the statement.
+$$
+Thus, $m^2+4x-2$ is even, proving the contrapositive and thus proving the statement.
 
 Cool Thing: Method of Elimination
 $$
 A\implies(B\lor C)\equiv(A\land(\neg B))\implies C
 $$
 ## 3.6 | Proof by Contradiction
-
 Proof by Contradiction:
 - A statement A must be either T or F. If we can prove that A cannot be False, we prove that it is true.
 - Assume that A is false, then deduce something that we know to be untrue
