@@ -1569,7 +1569,8 @@ $$
 Step 3: Find the standard form for $z^8$
 $$
 z^8=2^8(\cos(\frac{8\pi}{3})+i\sin(\frac{8\pi}{3})=2^8(-\frac{1}{2}+\frac{\sqrt{3}}{2}i)
-=-128+128\sqrt{3}i$$
+=-128+128\sqrt{3}i
+$$
 NOTATIONAL CONVENIENCE: 
 Polar forms satisfy the usual exponent laws.
 Let $e^{i\pi}=\cos\theta+i\sin\theta$. 

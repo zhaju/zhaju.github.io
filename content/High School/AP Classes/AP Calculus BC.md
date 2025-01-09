@@ -135,7 +135,7 @@ $$
 $$
 FTC II:
 $$
-\int_{a}^{x}f(t)dt=f'(a)-f'(b)
+\int_{a}^{b}f(t)dt=f'(b)-f'(a)
 $$
 ### Integral Rules
 Order of Integration
