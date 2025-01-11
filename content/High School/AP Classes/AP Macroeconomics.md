@@ -197,10 +197,10 @@ MPS = 1-MPC
 $$
 Total increase in real GDP =
 $$
-(1+MPC+MPC^2+MPC^3+\ldots)*$100b
+(1+MPC+MPC^2+MPC^3+\ldots)\times$100b
 $$
 $$
-\text{Total} = \frac{1}{1-MPC} * \text{Principal}=\frac{1}{MPS}
+\text{Total} = \frac{1}{1-MPC} \times \text{Principal}=\frac{1}{MPS}
 $$
 The Multiplier and the Great Depression
 - most economists thought 1929-33 was a collapse in investment spending
