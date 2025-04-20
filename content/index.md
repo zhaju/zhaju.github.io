@@ -1,9 +1,9 @@
 ---
-title: Welcome!
+title: README
 ---
 *the short:*
 
-I'm Julian, a 1B freshman at the [University of Waterloo](https://zhaju.github.io/University) studying Computing and Financial Management (CFM). My resume is [here](https://zhaju.github.io/resume.pdf). 
+I'm Julian, a 1B freshman at the [University of Waterloo](https://zhaju.github.io/University/1B) studying Computing and Financial Management (CFM). My resume is [here](https://zhaju.github.io/resume.pdf). 
 
 *the long:*
 
