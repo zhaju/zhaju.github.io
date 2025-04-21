@@ -670,7 +670,6 @@ proj_\vec{v}(2\vec{x}-3\vec{y})&=\frac{(2\vec{x}-3\vec{y})\cdot\vec{v}}{||\vec{v
 &= 2proj_\vec{v}(\vec{x})-3proj_\vec{v}(y)
 \end{align*}
 $$
-## 1.6 | Complex Euclidean Space
 # 2 | Systems of Linear Equations
 ## 2.1 | Basic Terminology
 > Definition: Linear Equation
@@ -2324,7 +2323,8 @@ P = \begin{bmatrix}
 3&-1 \\
 -1&2
 \end{bmatrix}
-$$Hence,
+$$
+Hence,
 $$
 \begin{align}
 A^{200}&=PD^{200}P^{-1} = \begin{bmatrix}

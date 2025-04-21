@@ -181,7 +181,8 @@ u=\ln(x)\implies \frac{du}{dx}=\frac{1}{x}\implies dx=xdu
 $$
 $$
 \int \frac{1}{x}u(xdu) = \int udu = \frac{1}{2}u^2+C = \frac{1}{2}(\ln(x))
-^2+C$$
+^2+C
+$$
 Example: Evaluate
 $$
 \int\frac{\cos(\sqrt{x})}{x}dx
@@ -925,7 +926,8 @@ $$
 \int \frac{1}{300-x}dx &= \int \frac{1}{100}dt \\
 -\ln|300-x| &= \frac{t}{100}+C
 \end{align*}
-$$Sub $x(0)=100$
+$$
+Sub $x(0)=100$
 $$
 \begin{align*}
 -\ln{300-100}&= 0 + c \implies c = -\ln 200 \\
@@ -2434,4 +2436,4 @@ $$
 &=1
 \end{align}
 $$
-i love katy howell escobar
+thanks katy howell escobar!
