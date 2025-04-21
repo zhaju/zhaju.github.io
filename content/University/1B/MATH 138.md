@@ -133,12 +133,9 @@ $$
 \frac{d}{dx}\int_{g(x)}^{h(x)}f(t)dt=f(h(x))h'(x)-f(g(x))g'(x)
 $$
 
-Example: Evaluate 
+Example: Evaluate
 $$
-\frac{d}{dx}\int_{5x}^\sqrt{x}\cos(t^2)dt
-$$
-$$
-\cos(x)\cdot \frac{1}{2\sqrt{x}} - \cos(25x^2)\cdot5
+\frac{d}{dx}\int_{5x}^\sqrt{x}\cos(t^2)dt = \cos(x)\cdot \frac{1}{2\sqrt{x}} - \cos(25x^2)\cdot5
 $$
 ## 1.5 | FTC Part 2
 > The Antiderivative Theorem: If $F,G$ are antiderivatives of a function $f$ on an open interval $I$, there exists a constant $C\in\mathbb{R}$ such that
@@ -435,7 +432,8 @@ $$
 $$
 If $\deg(a)\geq deg(b)$, write $a(x)=b(x)q(x)+r(x)$
 $$
-\int \frac{a(x)}{b(x)} =\int \frac{b(x)q(x)+r(x)}{b(x)}dx = q(x) + \frac{r(x)}{b(x)}dx$$
+\int \frac{a(x)}{b(x)} =\int \frac{b(x)q(x)+r(x)}{b(x)}dx = q(x) + \frac{r(x)}{b(x)}dx
+$$
 Ex:
 $$
 \int \frac{x+1}{(x+3)(x+4)}dx
@@ -922,10 +920,10 @@ $$
 $$
 Solving the separable DE:
 $$
-\begin{align*}
+\begin{align}
 \int \frac{1}{300-x}dx &= \int \frac{1}{100}dt \\
 -\ln|300-x| &= \frac{t}{100}+C
-\end{align*}
+\end{align}
 $$
 Sub $x(0)=100$
 $$
@@ -1083,7 +1081,8 @@ Example:
 What is the value of $c$ if
 $$
 \sum_{n=2}^\infty(1+c)^{-n} = 2
-$$Solution:
+$$
+Solution:
 $$
 a=\frac{1}{(1+c)^2}
 $$

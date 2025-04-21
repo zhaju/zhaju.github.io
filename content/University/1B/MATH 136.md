@@ -637,7 +637,7 @@ $$
 - $P_0(x_0,y_0,z_0)$ is a fixed point
 - $\vec{a}, \vec{b}$ are non-collinear vectors
 ## 1.5 | Projections
->Definition: Projection / "the shadow of $\vec{u}$ cast onto $\vec{v}$"
+> Definition: Projection / "the shadow of $\vec{u}$ cast onto $\vec{v}$"
 $$
 proj_{\vec{v}}\vec{v}=c\vec{v}=\frac{||\vec{u}||cos\theta}{||\vec{v}||}\vec{v}=\frac{\vec{u}\cdot\vec{v}}{||\vec{v}||^2}\vec{v}
 $$
@@ -657,18 +657,18 @@ $$
 \vec{w}=\vec{u}-c\vec{v}=\vec{u}-\frac{\vec{u}\cdot\vec{v}}{||\vec{v}||}^2
 \vec{v}
 $$
-Ex 1.3.0: Prove that 
+Ex 1.3.0: Prove that
 $$
 proj_\vec{v}(2\vec{x}-3\vec{y})-2proj_\vec{v}(\vec{x})-3proj_\vec{v}(\vec{y})
 $$
 $$
-\begin{align*}
+\begin{align}
 proj_\vec{v}(2\vec{x}-3\vec{y})&=\frac{(2\vec{x}-3\vec{y})\cdot\vec{v}}{||\vec{v}||^2}\vec{v} \\
 &=\frac{2(\vec{x}\cdot\vec{v})-3(\vec{y}\cdot\vec{v})}{||\vec{v}||^2}\vec{v} \\
 &= (\frac{2(\vec{x}\cdot\vec{v})}{||\vec{v}||^2} - \frac{3(\vec{y}\cdot\vec{v})}{||\vec{v}||^2})\vec{v} \\
 &= \frac{2(\vec{x}\cdot\vec{v})}{||\vec{v}||^2}\vec{v} - \frac{3(\vec{y}\cdot\vec{v})}{||\vec{v}||}\vec{v} \\
 &= 2proj_\vec{v}(\vec{x})-3proj_\vec{v}(y)
-\end{align*}
+\end{align}
 $$
 # 2 | Systems of Linear Equations
 ## 2.1 | Basic Terminology
@@ -1757,7 +1757,7 @@ $$
 > 1. $R_1=cR_1\implies \det(B)=c\det(A)$
 > 2. $R_1\leftrightarrow R_2\implies \det(B)=-\det(A)$
 > 	3. Corollary: If $n\times n$ matrix $A$ has two identical rows, then $\det(A)=0$
-> 34. R_1=R_1+cR_2\implies\det(B)=\det(A)$
+> 34. _1=R_1+cR_2\implies\det(B)=\det(A)$
 ### Determinants and Elementary Matrices
 > Addition to the Invertible Matrix Theorem:
 > An $n\times n$ matrix is invertible if and only if $\det(A)\neq0$
