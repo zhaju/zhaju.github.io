@@ -639,7 +639,7 @@ $$
 ## 1.5 | Projections
 > Definition: Projection / "the shadow of $\vec{u}$ cast onto $\vec{v}$"
 $$
-proj_{\vec{v}}\vec{v}=c\vec{v}=\frac{||\vec{u}||cos\theta}{||\vec{v}||}\vec{v}=\frac{\vec{u}\cdot\vec{v}}{||\vec{v}||^2}\vec{v}
+proj_{\vec{v}}\vec{u}=c\vec{v}=\frac{||\vec{u}||cos\theta}{||\vec{v}||}\vec{v}=\frac{\vec{u}\cdot\vec{v}}{||\vec{v}||^2}\vec{v}
 $$
 > Definition: Perpendicular / "the perpendicular of $\vec{u}$ onto $\vec{v}$"
 $$

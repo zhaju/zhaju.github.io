@@ -135,7 +135,7 @@ $$
 
 Example: Evaluate
 $$
-\frac{d}{dx}\int_{5x}^\sqrt{x}\cos(t^2)dt = \cos(x)\cdot \frac{1}{2\sqrt{x}} - \cos(25x^2)\cdot5
+\frac{d}{dx}\int_{5x}^\sqrt{x}\cos(t^2)dt=\cos(x)\cdot\frac{1}{2\sqrt{x}}-\cos(25x^2)\cdot5
 $$
 ## 1.5 | FTC Part 2
 > The Antiderivative Theorem: If $F,G$ are antiderivatives of a function $f$ on an open interval $I$, there exists a constant $C\in\mathbb{R}$ such that
@@ -337,7 +337,7 @@ opp = $\sqrt{x^2-4}$
 
 **Example 5:**
 $$
-\int_0^\sqrt{3} \frac{x}{(1+x^2)}dx
+\int_0^\sqrt{3}\frac{x}{(1+x^2)}dx
 $$
 Let $x=\tan\theta$
 $dx=\sec^2\theta d\theta$
