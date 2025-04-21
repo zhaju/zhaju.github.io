@@ -18,10 +18,10 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4         # ⬅️ updated
         with:
           fetch-depth: 0
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4       # ⬅️ updated
         with:
           node-version: 18.14
       - name: Install Dependencies
@@ -32,7 +32,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: public
- 
+
   deploy:
     needs: build
     environment:
@@ -43,3 +43,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
