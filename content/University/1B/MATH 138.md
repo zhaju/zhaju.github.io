@@ -128,7 +128,7 @@ $$
 $$
 \frac{d}{dx}\int_{a}^{x}f(t)dt=f(x)
 $$
-> Extended FTC I (CHAIN RULE): If $f$ is continuous and $g,h$ are differentiable, then
+> Extended FTC I (Chain Rule): If $f$ is continuous and $g,h$ are differentiable, then
 $$
 \frac{d}{dx}\int_{g(x)}^{h(x)}f(t)dt=f(h(x))h'(x)-f(g(x))g'(x)
 $$
