@@ -13,6 +13,11 @@ An interactive social media graph visualization platform for Twitter/X, facilita
 A digital stock broker using statistics to select a portfolio of stocks, outperforming a combined portfolio of the TSX60 and S&P500 by more than 30% over a 1 year period. Built with Yahoo Finance, Pandas, NumPy, and Jupyter for CFM 101. [GitHub](https://github.com/zhaju/EdgeFund/tree/main)
 
 ![](edge_fund.png)
+## ChatGPTree
+
+A lightweight browser extension which tracks your LLM use and displays its environmental impact in terms of energy, carbon, and water. Best Sustainability Project at CMU TartanHacks 2025. [GitHub](https://github.com/zhaju/ChatGPTree) [YouTube](https://www.youtube.com/watch?v=36_AU4sXE_w)
+
+![](chatgptree.png)
 ## News Article Bias Analyzer
 
 An AI-powered bias analyzer for news articles which uses sentiment analysis to calculate political leanings. Built with Langchain, Streamlit, and VoyageAI for [Wat.AI's Political LLM team](https://wataiteam.substack.com/p/onboarding-lessons-from-watais-political).
