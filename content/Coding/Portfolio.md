@@ -15,7 +15,7 @@ A digital stock broker using statistics to select a portfolio of stocks, outperf
 ![](edge_fund.png)
 ## ChatGPTree
 
-A lightweight browser extension which tracks your LLM use and displays its environmental impact in terms of energy, carbon, and water. Best Sustainability Project at CMU TartanHacks 2025. [GitHub](https://github.com/zhaju/ChatGPTree) [YouTube](https://www.youtube.com/watch?v=36_AU4sXE_w)
+A lightweight browser extension which tracks your LLM use and displays its environmental impact in terms of energy, carbon, and water. Best Sustainability Project at CMU TartanHacks 2025 ❤️ [GitHub](https://github.com/zhaju/ChatGPTree) [YouTube](https://www.youtube.com/watch?v=36_AU4sXE_w)
 
 ![](chatgptree.png)
 ## News Article Bias Analyzer
