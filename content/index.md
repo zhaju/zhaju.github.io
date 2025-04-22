@@ -7,9 +7,9 @@ I'm Julian, a first year student at the [University of Waterloo](https://zhaju.g
 
 *the long:*
 
-Over 6 years, I spent roughly 3,000 hours[^1] on public transit commuting to [high school](https://zhaju.github.io/High-School/AP-Classes/) in downtown Toronto. During that time, I [debated](https://zhaju.github.io/Debate) for the national team, wrote [math contests](https://zhaju.github.io/Math), [coded](https://zhaju.github.io/Coding), and met some truly amazing people. I became particularly interested in the intersection between the sciences and the humanities, namely the applications of math and computers to solve social problems.
+Over 6 years, I spent roughly 3,000 hours[^1] on public transit commuting to [high school](https://zhaju.github.io/High-School/AP-Classes/) in downtown Toronto. During that time, I [debated](https://zhaju.github.io/Debate) for the national team, [coded](https://zhaju.github.io/Coding), wrote [math contests](https://zhaju.github.io/Math), and met some truly amazing people. I became particularly interested in the intersection between the sciences and humanities, namely the applications of math and computers to solve social problems.
 
-This combination of interests led me to a double major in Computer Science and Finance, which I've studied for a year now. In that year I've written a lot, gotten addicted to poker, hosted a big game of tag for my friends, and met some more amazing people. I'm now doing my first co-op term at RBC, planning more games of tag, and trying very hard to get my drivers' license.
+I followed that path to Waterloo, where I've been studying a double major in Computer Science and Finance for a year now. In that year I wrote a lot, got addicted to poker, hosted a big game of tag for my friends, and met some more amazing people. I'm currently doing my first co-op term at RBC, planning more games of tag, and trying very hard to get my drivers' license.
 
 [^1]: 3 hours x 200 days x 5 years
 
