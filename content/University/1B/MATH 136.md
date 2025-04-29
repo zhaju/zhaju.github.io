@@ -659,11 +659,9 @@ $$
 $$
 Ex 1.3.0: Prove that
 $$
-proj_\vec{v}(2\vec{x}-3\vec{y})-2proj_\vec{v}(\vec{x})-3proj_\vec{v}(\vec{y})
-$$
-$$
 \begin{align}
-proj_\vec{v}(2\vec{x}-3\vec{y})&=\frac{(2\vec{x}-3\vec{y})\cdot\vec{v}}{||\vec{v}||^2}\vec{v} \\
+proj_\vec{v}(2\vec{x}-3\vec{y})&=2proj_\vec{v}(\vec{x})-3proj_\vec{v}(\vec{y}) \\
+&=\frac{(2\vec{x}-3\vec{y})\cdot\vec{v}}{||\vec{v}||^2}\vec{v} \\
 &=\frac{2(\vec{x}\cdot\vec{v})-3(\vec{y}\cdot\vec{v})}{||\vec{v}||^2}\vec{v} \\
 &= (\frac{2(\vec{x}\cdot\vec{v})}{||\vec{v}||^2} - \frac{3(\vec{y}\cdot\vec{v})}{||\vec{v}||^2})\vec{v} \\
 &= \frac{2(\vec{x}\cdot\vec{v})}{||\vec{v}||^2}\vec{v} - \frac{3(\vec{y}\cdot\vec{v})}{||\vec{v}||}\vec{v} \\
