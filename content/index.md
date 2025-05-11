@@ -3,13 +3,13 @@ title: README
 ---
 *the short:*
 
-I'm Julian, a first year student at the [University of Waterloo](https://zhaju.github.io/University/1B) studying Computing and Financial Management (CFM). My resume is [here](https://zhaju.github.io/resume.pdf). 
+I'm Julian, a first year student at the [University of Waterloo](https://zhaju.github.io/University/1B) studying a double major in Computer Science and Finance (CFM). My resume is [here](https://zhaju.github.io/resume.pdf). 
 
 *the long:*
 
 Over 6 years, I spent roughly 3,000 hours[^1] on public transit commuting to [high school](https://zhaju.github.io/High-School/AP-Classes/) in downtown Toronto. During that time, I [debated](https://zhaju.github.io/Debate) for the national team, [coded](https://zhaju.github.io/Coding), wrote [math contests](https://zhaju.github.io/Math), and met some truly amazing people. I became particularly interested in the intersection between the sciences and humanities, namely the applications of math and computers to solve social problems.
 
-I followed that path to Waterloo, where I've been studying a double major in Computer Science and Finance for a year now. In that year I wrote a lot, got addicted to poker, hosted a big game of tag for my friends, and met some more amazing people. I'm currently doing my first co-op term at RBC, planning more games of tag, and trying very hard to get my drivers' license.
+I followed that path to Waterloo, where I've been studying a double major in Computer Science and Finance for a year now. In that year I got addicted to poker, wrote a lot, hosted a big game of tag for my friends, and met some more amazing people. I'm currently doing my first co-op term at RBC, planning more games of tag, and trying very hard to get my drivers' license.
 
 [^1]: 3 hours x 200 days x 5 years
 
