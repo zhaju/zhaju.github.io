@@ -3,16 +3,24 @@ title: README
 ---
 *the short:*
 
-I'm Julian, a first year student at the [University of Waterloo](https://zhaju.github.io/University/1B) studying a double major in Computer Science and Finance (CFM). My resume is [here](https://zhaju.github.io/resume.pdf). 
+I’m Julian, a second  year student at the University of Waterloo studying a double major in Computer Science and Finance (CFM). My resume is [here](https://zhaju.github.io/resume.pdf).
 
 *the long:*
 
-Over 6 years, I spent roughly 3,000 hours[^1] on public transit commuting to [high school](https://zhaju.github.io/High-School/AP-Classes/) in downtown Toronto. During that time, I [debated](https://zhaju.github.io/Debate) for the national team, [coded](https://zhaju.github.io/Coding), wrote [math contests](https://zhaju.github.io/Math), and met some truly amazing people. I became particularly interested in the intersection between the sciences and humanities, namely the applications of math and computers to solve social problems.
+Things that I've done since coming to Waterloo:
+- Hosted a [Turf Wars / Capture The Flag](https://www.convergencegame.ca/) game in Downtown Toronto for 50+ friends
+- Wrote 30k+ words, some of which you can read [here](https://zhaju.substack.com/)
+- Became a shill for some [French LLM](https://www.anthropic.com/claude)
+- Got addicted to poker
+- Met some amazing people
 
-I followed that path to Waterloo, where I've been studying a double major in Computer Science and Finance for a year now. In that year I got addicted to poker, [wrote a lot](https://zhaju.substack.com/), hosted a big game of tag for my friends, and met some more amazing people. I'm currently doing my first co-op term at RBC, planning more games of tag, and trying very hard to get my drivers' license.
+What you'll find on this site:
+- Study notes from [high school](https://zhaju.github.io/High-School/AP-Classes/)and [university](https://zhaju.github.io/University/1B/)
+- Resources for high school and contest-level [math](https://zhaju.github.io/Math/)
+- All of the [debate classes](https://zhaju.github.io/Debate/Debate-Resources) I ever taught
 
-[^1]: 3 hours x 200 days x 5 years
-
-More personal: I'm about as type A as it gets. I love food, and have been cooking for family and friends for 5 years. My room is inhabited by many stuffed animals-- among them are a dog, a moose, and a big polar bear. I've been boxing inconsistently for about 2 years. My favourite author is Christopher Hitchens; favourite film is *Catch Me If You Can*; favourite show is *Better Call Saul*; favourite artist is NIKI; and my favourite place to be is here, right on your screen :)[^2]
-
-[^2]: Thanks to [Randy](https://randyxchang.com/1/about) for inspiring this page.
+Slightly more interesting things about me:
+- I’m about as type A as it gets
+- I love food, and have been cooking for family and friends for 5 years 
+- My room is inhabited by many stuffed animals, including a dog, a moose, and a big polar bear
+- My favourite author is Christopher Hitchens; favourite film is Catch Me If You Can; favourite show is Better Call Saul; favourite artist is NIKI; and my favourite place to be is here, right on your screen :)
