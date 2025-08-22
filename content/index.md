@@ -18,6 +18,7 @@ What you'll find on this site:
 - Study notes from [high school](https://zhaju.github.io/High-School/AP-Classes/)and [university](https://zhaju.github.io/University/1B/)
 - Resources for high school and contest-level [math](https://zhaju.github.io/Math/)
 - All of the [debate classes](https://zhaju.github.io/Debate/Debate-Resources) I ever taught
+- A list of my [coding projects](https://zhaju.github.io/Coding/Portfolio)
 
 Slightly more interesting things about me:
 - I’m about as type A as it gets
