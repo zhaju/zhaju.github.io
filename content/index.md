@@ -1,11 +1,7 @@
 ---
 title: README
 ---
-*the short:*
-
 I’m Julian, a second  year student at the University of Waterloo studying a double major in Computer Science and Finance (CFM). My resume is [here](https://zhaju.github.io/resume.pdf).
-
-*the long:*
 
 Things that I've done since coming to Waterloo:
 - Hosted a [Turf Wars / Capture The Flag](https://www.convergencegame.ca/) game in Downtown Toronto for 50+ friends
