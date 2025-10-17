@@ -1,6 +1,6 @@
 ## Convergence
 
-A Capture The Flag meets Turf Wars game in Downtown Toronto for 50+ friends, complete with challenges, merch, and a [custom web app](https://convergencegame.ca/)
+A Capture The Flag meets Turf Wars game in Downtown Toronto for 50+ friends, complete with challenges, merch, and a [custom web app](https://convergencegame.ca/). [YouTube](https://www.youtube.com/watch?v=Gq2RE4Vaz28)
 
 ![](convergence.jpg)
 ## Contextual
