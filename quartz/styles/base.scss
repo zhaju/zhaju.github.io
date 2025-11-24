@@ -158,6 +158,7 @@ a {
       top: 0;
       width: $sidePanelWidth;
       margin-top: $topSpacing;
+      margin-bottom: $topSpacing;
       box-sizing: border-box;
       padding: 0 4rem;
       position: fixed;
@@ -483,7 +484,7 @@ video {
 
 ul.overflow,
 ol.overflow {
-  max-height: 400;
+  max-height: calc(100vh - 2 * $topSpacing);
   overflow-y: auto;
   position: relative;
 
@@ -493,19 +494,6 @@ ol.overflow {
 
   & > li:last-of-type {
     margin-bottom: 30px;
-  }
-
-  &:after {
-    pointer-events: none;
-    content: "";
-    width: 100%;
-    height: 50px;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    opacity: 1;
-    transition: opacity 0.3s ease;
-    background: linear-gradient(transparent 0px, var(--light));
   }
 }
 
