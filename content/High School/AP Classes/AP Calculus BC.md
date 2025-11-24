@@ -1,4 +1,4 @@
-[MCV4UP Course Overview](https://docs.google.com/document/d/1zxxu8H_ZE2FBxYEqlFhhqAuRdSdMgtf8XED8eC72FdM/edit)
+﻿[MCV4UP Course Overview](https://docs.google.com/document/d/1zxxu8H_ZE2FBxYEqlFhhqAuRdSdMgtf8XED8eC72FdM/edit)
 
 [AP Calc Classroom](https://apclassroom.collegeboard.org/26/)
 

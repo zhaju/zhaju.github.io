@@ -1,4 +1,4 @@
- [S6 Physics Study Doc](https://docs.google.com/document/d/1eB7phRkzJIKi7-GChLNmtqp5Qgyi7RJlRuUiAcnbIwc/edit)
+﻿ [S6 Physics Study Doc](https://docs.google.com/document/d/1eB7phRkzJIKi7-GChLNmtqp5Qgyi7RJlRuUiAcnbIwc/edit)
 ## Unit 1: Dynamics
 
 Kinematics Equations
@@ -88,7 +88,7 @@ $$
 <u>Elastic vs Inelastic</u>
 - Elastic collision: Kinetic Energy / Heat Conserved (pool ball)
 - Inelastic collision: Kinetic Energy / Heat not Conserved
-	- perfectly inelastic collision: two objects stick together 
+	- perfectly inelastic collision: two objects stick together 
 
 <u>Open vs Closed</u>
 - Open system: Momentum changes
@@ -169,7 +169,7 @@ c=\sqrt{\frac{2GM_e}{R_e}}
 $$
 Gravitational Potential Energy = Binding Energy
 - Same as activation energy of an electron
-- It’s negative - “I’m this far below how much I need to leave”
+- It’s negative - "I’m this far below how much I need to leave"
 
 ### **Electricity**
 Resistance = Voltage / Current
@@ -178,9 +178,9 @@ $P=VI$
 ![](https://lh7-us.googleusercontent.com/DphdlGtpq_myYlzfPawnebmN50XrbNvTxoaMmab528pbUnupjS9UCeab5vs6muK3jBRlCU9j5HUZ17_TgaTmqrXdQJj--8d3Hzy8jYETXvLYPlwQ0YeMpcbJxF-a0Rk5yRb5IHVGbDPITJnB9f8uYEQ)
 ![](https://lh7-us.googleusercontent.com/XaKNboiIVUilwb1Nc7FHMNJMf_XRkXQUGBolRlUzGKoYh942bMLpxlSCWNnN_ee1_TH8T_ZOATitQq3CVPpaBE3RbgyC8BKhIN8LOR3-9VH50htU2VgerOvshUcByiUJLoPa1m7GMAj_16H-MabTpbQ)
 
-Kirchhoff's Junction Rule: The algebraic sum of the currents into (or out of) any junction in the circuit is zero.  
+Kirchhoff's Junction Rule: The algebraic sum of the currents into (or out of) any junction in the circuit is zero.  
 
-Kirchhoff's Loop Rule: The sum of the voltage changes across the circuit elements forming any closed loop is zero.
+Kirchhoff's Loop Rule: The sum of the voltage changes across the circuit elements forming any closed loop is zero.
 
 ### **Resistivity and Electric Fields**
 

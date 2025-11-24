@@ -1,4 +1,4 @@
----
+﻿---
 title: "Quartz Showcase"
 ---
 
@@ -14,7 +14,7 @@ Want to see what Quartz can do? Here are some cool community gardens:
 - [Matt Dunn's Second Brain](https://mattdunn.info/)
 - [Pelayo Arbues' Notes](https://pelayoarbues.github.io/)
 - [Vince Imbat's Talahardin](https://vinceimbat.com/)
-- [🧠🌳 Chad's Mind Garden](https://www.chadly.net/)
+- [ 🌳 Chad's Mind Garden](https://www.chadly.net/)
 - [Pedro MC Fernandes's Topo da Mente](https://www.pmcf.xyz/topo-da-mente/)
 - [Mau Camargo's Notkesto](https://notes.camargomau.com/)
 - [Caicai's Novels](https://imoko.cc/blog/caicai/)
@@ -23,7 +23,7 @@ Want to see what Quartz can do? Here are some cool community gardens:
 - [Mike's AI Garden 🤖🪴](https://mwalton.me/)
 - [Brandon Boswell's Garden](https://brandonkboswell.com)
 - [Scaling Synthesis - A hypertext research notebook](https://scalingsynthesis.com/)
-- [Data Dictionary 🧠](https://glossary.airbyte.com/)
+- [Data Dictionary  ](https://glossary.airbyte.com/)
 - [sspaeti.com's Second Brain](https://brain.sspaeti.com/)
 - [🪴Aster's notebook](https://notes.asterhu.com)
 - [🥷🏻🌳🍃 Computer Science & Thinkering Garden](https://notes.yxy.ninja)

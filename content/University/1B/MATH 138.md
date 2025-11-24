@@ -1,4 +1,4 @@
-```
+﻿```
 MATH 138 - Calculus 2
 MWF 11:30AM - 12:20PM 
 MC 4021

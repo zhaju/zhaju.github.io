@@ -1,4 +1,4 @@
----
+﻿---
 title: ContentPage
 tags:
   - plugin/emitter

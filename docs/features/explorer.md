@@ -1,4 +1,4 @@
----
+﻿---
 title: "Explorer"
 tags:
   - component
@@ -75,7 +75,7 @@ Every function you can pass is optional. By default, only a `sort` function will
 Component.Explorer({
   sortFn: (a, b) => {
     if ((!a.file && !b.file) || (a.file && b.file)) {
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a   b, a = á, a = A
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
       return a.displayName.localeCompare(b.displayName, undefined, {
         numeric: true,

@@ -1,4 +1,4 @@
-[AP Physics Classroom](https://apclassroom.collegeboard.org/92)
+﻿[AP Physics Classroom](https://apclassroom.collegeboard.org/92)
 
 [S6 Physics Study Doc](https://docs.google.com/document/d/1-qTvowaAHFSe8n4tAcMwvxbl01X5Y6aPufdZRC-CO4A/edit)
 ## 1. Kinematics
@@ -87,7 +87,7 @@ $$
 <u>Elastic vs Inelastic</u>
 - Elastic collision: Kinetic Energy / Heat Conserved (pool ball)
 - Inelastic collision: Kinetic Energy / Heat not Conserved
-	- perfectly inelastic collision: two objects stick together 
+	- perfectly inelastic collision: two objects stick together 
 
 <u>Open vs Closed</u>
 - Open system: Momentum changes

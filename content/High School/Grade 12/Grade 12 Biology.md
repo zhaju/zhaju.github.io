@@ -1,4 +1,4 @@
-this one isn't a real study doc, just a collection of Jiao's impromptu lectures :)
+﻿this one isn't a real study doc, just a collection of Jiao's impromptu lectures :)
 ## Plants v2 Lesson 03/31
 ### I. Tropisms
 1. Tropism = The way a plant responds to specific stimuli
@@ -18,15 +18,15 @@ this one isn't a real study doc, just a collection of Jiao's impromptu lectures 
 1. Meristems are the cells that grow
 2. Primary (apical) = length
 	1. Found in places that need vertical growth (eg. roots, tips of shoots)
-	2. Unspecialized cells inside the meristem undergo aggressive mitosis 
+	2. Unspecialized cells inside the meristem undergo aggressive mitosis 
 	3. New cells undergo vacuolation = poking a bunch of holes
 	4. They specialize and become root / stem / etc cells
 3. Secondary (lateral) = girth
-	1. Cambium = Adding to tissue 
+	1. Cambium = Adding to tissue 
 	2. Cork Cambium = Adding to bark
 	3. Important for perennial plants, because they still need to survive in the winter
 4. Micropropagation = making plants
-	1. Unspecialized cells in the meristem can be harvested 
+	1. Unspecialized cells in the meristem can be harvested 
 	2. Adding agar, auxin to DIY your own plants
 	3. If there’s one problem with that plant, it affects them all
 	4. Can be used to resist viruses
@@ -53,7 +53,7 @@ this one isn't a real study doc, just a collection of Jiao's impromptu lectures 
 ### IV. Photoperiodicity
 When do plants flower?
 1. Phytochrome = photoreceptor that changes in response to light
-	1. PR 
+	1. PR 
 	2. PFR
 	3. When exposed to daylight, PR → PFR; when exposed to darkness, vice versa
 2. Types of blooming plants
@@ -62,7 +62,7 @@ When do plants flower?
 	2. Short day = min amount of darkness to still bloom (winter)
 		1. need a lot of PR
 3. You can trick plants to bloom by giving them darkness / light
-4. This is done to petunias during Easter, roses during Valentines, 
+4. This is done to petunias during Easter, roses during Valentines, 
 ## Plants Lesson 03/10
 ### Topics
 1. Water (key)
@@ -129,7 +129,7 @@ When do plants flower?
 - lung capacity: TV + IRV + ERV    
 - breaths are measured with a spirometer    
 ### Gas exchange: lung → blood, tissue → blood
-- High CO2, lungs → blood     
+- High CO2, lungs → blood     
 - High O2, blood → tissue    
 ### How you breathe
 - Alveoli in lungs (sacs), Diaphragm    
@@ -141,7 +141,7 @@ When do plants flower?
 - We know when to breathe with the pH in our blood   
 - Because CO2 (carbonic acid HCO3) and O2 (hemoglobin)   
 - Chemoreceptors tell the medulla oblongata to breathe   
-### Hemoglobin carries oxygen 
+### Hemoglobin carries oxygen 
 - 4 lobes - each has Fe, binds to O    
 - They change their shape so Oxygen gets in easier (cooperative binding)    
 ### Carbon dioxide transported in blood

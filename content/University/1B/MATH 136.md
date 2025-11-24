@@ -1,4 +1,4 @@
-```
+﻿```
 MATH 136 - Linear Algebra
 MWF 3:30PM - 4:20PM
 QNC 2502

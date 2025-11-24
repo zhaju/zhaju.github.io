@@ -1,4 +1,4 @@
-# 0 | Pre-Calculus Review
+﻿# 0 | Pre-Calculus Review
 ## 0.1 | Real-Valued Functions
 Function:
 - Vertical Line Test

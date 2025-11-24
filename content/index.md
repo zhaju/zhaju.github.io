@@ -1,4 +1,4 @@
----
+﻿---
 title: README
 ---
 I’m Julian, a second  year student at the University of Waterloo studying a double major in Computer Science and Finance (CFM). My resume is [here](https://zhaju.github.io/resume.pdf).

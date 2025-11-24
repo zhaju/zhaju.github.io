@@ -1,4 +1,4 @@
-# 0 | Overview
+﻿# 0 | Overview
 Course Goals
 - Understand the precise meaning of mathematical statements
 - Learn to communicate effectively
