@@ -1,0 +1,38 @@
+---
+title: Prediction Markets as the Information Future
+---
+*A proposal for the future of news media*  
+# Introduction  
+On January 28, 1986, the Space Shuttle *Challenger* launched from the Kennedy Space Centre at 11:39 am. It was a national spectacle, with schools across the United States airing the mission to their students. 73 seconds later, the *Challenger* burst into flames.
+
+After this national tragedy, the US government launched an intensive investigation into who was to blame. After 3 months of research, they found their answer. Among all the complex machinery in the space shuttle, an O-ring seal had failed due to cold weather, kickstarting a chain reaction that would destroy the whole shuttle.
+
+But if you go back in time to the day of the disaster, a different investigation was also being run - this one by the public. Four companies (Lockheed, Martin Marietta, Rockwell and Morton-Thiokol) were responsible for almost all of the parts used to build the space shuttle. Whichever company was responsible for the Challenger disaster would surely see a collapse in its share price. But that would be months later, right? How could the finance nerds on Wall Street know what caused a space shuttle to inexplicably explode - let alone **which part** of the space shuttle failed?
+
+What took the US government 3 months, a rescue operation, and millions of dollars to figure out, was discovered by the market in 20 minutes.
+
+![](https://www.begintoinvest.com/wp-content/uploads/2019/01/Challenger-stock_price_movements-allday.png)  
+# Prediction Markets  
+Prediction markets are, contrary to how they may seem, quite simple instruments. They are financial exchanges for binary event contracts - in simple terms, things that happen or don't. In layman's terms, people bet money on whether or X event will happen. The price of X happening is determined by how many people think it will happen and how much money they bet on it happening. If X happens, the people who predicted it win money, and the people who didn't lose money. Furthermore, the price of X happening is dynamic: it can go up or down based on what public opinion is, and bettors hold their positions like stocks that they can buy and sell at any time.
+
+Have you ever heard the saying "put your money where your mouth is"? It illustrates something very intuitive about human nature: talk is cheap. When people have a stake in something - when they have skin in the game - their true preferences are revealed. You wouldn't bet on a sports team winning because you want them to win; you bet on them because you think they will win, regardless of your emotional outlook on the matter. When people are forced to put down money (the most important asset to many people), their decisions will reflect exactly what they believe.
+
+This property of markets makes them inherently truth-seeking, because it forces people to see the world as it is, not how it ought to be. These markets convey information (written about at length by economists like FA Hayek), lending them their namesake predictive power.  Even if you believe in the Efficient Market Hypothesis (all information about a security is reflected in the price) a little bit, it becomes clear that prediction markets are the best way for us to see the future. A sportsbook could give you insight on tonight's game, a polling site could give you clues about an upcoming election, but nothing beats the wisdom of the masses when they put their money where their mouth is. The Challenger explodes every day, and markets are predicting it.  
+# A Proposal For News  
+I'm writing this the same day that Kalshi announced its partnership with CNN - a move that I thought should've happened much sooner, once I thought of this idea. Although prediction markets are experiencing an unprecedented level of growth at the moment, the spotlight has mostly focused on people trying to get rich off them, not on their potential to convey information. Here's my take: some people will win money, some people will lose money. It isn't "just gambling" as some people might say, but it probably has the same skill/luck ratio as the stock market, whatever you think that may be. What I do know is this: **prediction markets are the information engine as the future.**
+
+When Shayne asked me to make a project in 48 hours for Polymarket, I made [this](https://zhaju.github.io/polymotion/). It's this little web app called Polymotion, which just pulls data from the Polymarket API and sorts markets by daily movement. It only shows 2023 data because Polymarket is banned in Canada - oh well! The idea was this: if prices on prediction markets are aggregations of public sentiment for a market, then the biggest changes in price will correlate with the biggest developments surrounding that market. For instance, if the market for a sports match had team A winning at 60% and team B at 40% - but in one day shifts to 90%/10%, then something big definitely happened. Maybe team B's star player got hurt, or team A announced a last-minute roster change. Whatever the case may be, **changes in price reflect changes in circumstance**, and there's a big possibility of news media to exploit that.
+
+As part of the Kalshi partnership, CNN said that they would include live odds as part of its broadcast. This is a good start - it familiarises the unfamiliar wider audience with the ability to quantify public sentiment so easily. But I think they could go much further. In fact, I think Kalshi could create its own news platform, with one key distinction. **Instead of starting with news events and accompanying them with odds, work backwards: start with the odds, and reverse-engineer the newsworthy events.**
+
+It's like using the Reddit search feature for Controversial. By sorting for the markets with the greatest price changes, one obtains the most breaking news by design. Maybe the odds of a company beating earnings went up because their CEO made a statement. Maybe the odds of a candidate winning an election went down because a scandal leaked. In any case, consider the news presented like this:
+
+**BREAKING: Odds of X went up/down 19% today (41% -> 22%). Here are some reasons why:**
+
+Isn't that a much more engaging way to present and quantify the news? Instead of telling people what things happen, it explains **why** they happen - forcing people to understand the things going on around them. Prediction markets have allowed us to do something we couldn't do before - put numbers on our opinions. Maybe this can help more people understand the truth. Maybe we'll price the next Challenger.  
+# What's Next  
+The prediction market space is still very new and has boundless untapped potential. I still have many more ideas on how the technology behind prediction markets can be implemented (one that I particularly like is internal markets in companies - will a team land X deal or meet Y deadline). Markets have the ability to make anything they touch more efficient. It's up to us to decide what those things might be.
+
+Ryan or Jaron, if you're reading this, know that this is still my dream job. I think about what I'd do at a company like Kalshi all the time, and there are many more ideas to come. Give me this one chance - it's the best bet you'll ever make.
+
+Onwards!
