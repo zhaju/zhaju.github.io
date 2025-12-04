@@ -3,11 +3,11 @@ title: Prediction Markets as the Information Future
 ---
 *A proposal for the future of news media*  
 # Introduction  
-On January 28, 1986, the Space Shuttle *Challenger* launched from the Kennedy Space Centre at 11:39 am. It was a national spectacle, with schools across the United States airing the mission to their students. 73 seconds later, the *Challenger* burst into flames.
+On January 28, 1986, the Space Shuttle *Challenger* launched from the Kennedy Space Centre at 11:39 am. It was a national spectacle, with schools across the United States airing the mission to their students. 73 seconds later, it burst into flames.
 
 After this national tragedy, the US government launched an intensive investigation into who was to blame. After 3 months of research, they found their answer. Among all the complex machinery in the space shuttle, an O-ring seal had failed due to cold weather, kickstarting a chain reaction that would destroy the whole shuttle.
 
-But if you go back in time to the day of the disaster, a different investigation was also being run - this one by the public. Four companies (Lockheed, Martin Marietta, Rockwell and Morton-Thiokol) were responsible for almost all of the parts used to build the space shuttle. Whichever company was responsible for the Challenger disaster would surely see a collapse in its share price. But that would be months later, right? How could the finance nerds on Wall Street know what caused a space shuttle to inexplicably explode - let alone **which part** of the space shuttle failed?
+But if you go back in time to the day of the disaster, a different investigation was also being run - this one by the public. Four companies (Lockheed, Martin Marietta, Rockwell and Morton-Thiokol) were responsible for almost all of the parts used to build the space shuttle. Whichever company was responsible for the Challenger disaster would surely see a collapse in its share price. But that would also be months later, right? How could the finance nerds on Wall Street know what caused a space shuttle to inexplicably explode - let alone **which part** of the space shuttle failed?
 
 What took the US government 3 months, a rescue operation, and millions of dollars to figure out, was discovered by the market in 20 minutes.
 
