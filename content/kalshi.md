@@ -1,6 +1,6 @@
 ---
 title: Prediction Markets as the Information Future
-draft: true
+unlisted: true
 ---
 *A proposal for the future of news media*  
 # Introduction  
