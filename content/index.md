@@ -1,4 +1,4 @@
-﻿---
+---
 title: README
 ---
 I’m Julian, a second  year student at the University of Waterloo studying a double major in Computer Science and Finance (CFM). My resume is [here](https://zhaju.github.io/resume.pdf).
@@ -11,7 +11,7 @@ Things that I've done since coming to Waterloo:
 - Met some amazing people
 
 What you'll find on this site:
-- Study notes from [high school](https://zhaju.github.io/High-School/AP-Classes/)and [university](https://zhaju.github.io/University/1B/)
+- Study notes from [high school](https://zhaju.github.io/High-School/AP-Classes/)and [university](https://zhaju.github.io/University/2A/)
 - Resources for high school and contest-level [math](https://zhaju.github.io/Math/)
 - All of the [debate classes](https://zhaju.github.io/Debate/Debate-Resources) I ever taught
 - A list of my [coding projects](https://zhaju.github.io/Coding/Portfolio)
