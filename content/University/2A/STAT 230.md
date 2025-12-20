@@ -317,7 +317,8 @@ P(T)=0.8, P(C)=0.63, P(T\cap C)=0.51
 $$
 $$
 P(T\cup C)=P(T)+P(C)-P(T\cap C)=0.8+0.63-0.51
-=0.92$$
+=0.92
+$$
 2. Canadian Tire but not Tim Hortons
 We want $P(C\cap\overline{T})$
 $$
