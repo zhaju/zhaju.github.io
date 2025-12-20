@@ -695,6 +695,7 @@ E(X)=\sum_{x\in X(S)}\times f_X(x) = \sum_{x=1}^6= \frac{21}{6} = 3.5
 $$
 
 Ex: Lotto 649
+
 R = Return on $1 bet: $R(S)=\{-1, 499999\}$
 $$
 f_R(4,999,999) = \frac{1}{\binom{49}{6}} = 1-f_R(-1)
@@ -800,6 +801,7 @@ $$
 ## 3.4 | Moment Generating Functions
 ### Casino Day
 **Roulette:** 
+
 R = return on a Red bet of $1, $R(s)=\{1,-1\}$
 $$
 E[R] = \frac{1}{38}+(-1) \frac{20}{38} = -\frac{2}{38}
@@ -1728,7 +1730,7 @@ $$
 $$
 \frac{X_\lambda-\lambda}{\sqrt{\lambda}}\approx N(0,1)
 $$
-Suppose that you are interested in buying some red potatoes from a local grocery store. The potatoes are priced at $1.60 per kilogram. The average weight of a red potato at the store is 200 grams with a standard deviation of 25 grams. The distribution of the weights of potatoes is unknown.
+Suppose that you are interested in buying some red potatoes from a local grocery store. The potatoes are priced at 1.60 per kilogram. The average weight of a red potato at the store is 200 grams with a standard deviation of 25 grams. The distribution of the weights of potatoes is unknown.
 1. Suppose you take a random sample of 49 potatoes. What is the approximate probability that the average weight of the 49 potatoes sampled is between 195 and 205 grams (inclusive)?
 
 Use CLT to approximate sample mean with normal distribution
@@ -1741,7 +1743,7 @@ $$
 $$
 =P(-1.4\leq Z\leq 1.4)=2\phi(1.4)-1\approx 0.838
 $$
-2. Now, suppose you take a random sample of 36 potatoes. What is the approximate probability that the random sample of 36 potatoes will cost more than $12.
+2. Now, suppose you take a random sample of 36 potatoes. What is the approximate probability that the random sample of 36 potatoes will cost more than 12.
 $$
 T_{36}=\sum_{i=1}^{36}x_i\approx N(36\times200, 36\times25^2)
 $$
@@ -1751,7 +1753,7 @@ $$
 $$
 P(C_{36}>12)=P(Z>2)=0.0228
 $$
-3. Now, suppose that you only have $10 in cash, and you want to buy as many potatoes as you can with this $10. Determine the largest number of potatoes that you can select (randomly, of course), in order to be at least 85% certain that their overall cost will be at most $10.
+3. Now, suppose that you only have 10 in cash, and you want to buy as many potatoes as you can with this 10. Determine the largest number of potatoes that you can select (randomly, of course), in order to be at least 85% certain that their overall cost will be at most 10.
 $$
 C_n\approx N(\frac{1.60}{1000}\times n\times 200, (\frac{1.60}{1000})^2\times n\times 25^2)
 $$
