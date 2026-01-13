@@ -33,7 +33,3 @@ It's like using the Reddit search feature for Controversial. By sorting for the 
 Isn't that a much more engaging way to present and quantify the news? Instead of telling people what things happen, it explains **why** they happen - forcing people to understand the things going on around them. Prediction markets have allowed us to do something we couldn't do before - put numbers on our opinions. Maybe this can help more people understand the truth. Maybe we'll price the next Challenger.  
 # What's Next  
 The prediction market space is still very new and has boundless untapped potential. I still have many more ideas on how the technology behind prediction markets can be implemented (one that I particularly like is internal markets in companies - will a team land X deal or meet Y deadline). Markets have the ability to make anything they touch more efficient. It's up to us to decide what those things might be.
-
-Ryan or Jaron, if you're reading this, know that this is still my dream job. I think about what I'd do at a company like Kalshi all the time, and there are many more ideas to come. Give me this one chance - it's the best bet you'll ever make.
-
-Onwards!
