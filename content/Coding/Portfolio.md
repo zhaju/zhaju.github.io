@@ -10,7 +10,7 @@ An AI medical intake form assistant, allowing patients to complete paperwork thr
 ![](intake.png)
 ## Polymotion
 
-A web app that displays the top Polymarkets with the largest price movements over the last 24 hours, so you can see what news is breaking. Built for a very demanding CEO. [Website](https://zhaju.github.io/polymotion/)
+A web app that displays the top Polymarkets with the largest price movements over the last 24 hours, so you can see what news is breaking. Built with Polymarket Gemini API for a very demanding CEO. [Website](https://zhaju.github.io/polymotion/)
 
 ![](polymotion.png)
 ## Contextual
