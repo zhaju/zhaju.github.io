@@ -1,5 +1,5 @@
 ---
-title: Nucleus Case Study ⚛️
+title: Nucleus Case Study
 unlisted: true
 ---
 # Part 1: New Media Strategy
