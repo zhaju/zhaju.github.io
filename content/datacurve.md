@@ -7,7 +7,7 @@ unlisted: true
 
 > Problem: We need to deliver 1000 high quality Rust problem-solution data points in 21 days. This requires recruiting elite systems engineers, onboarding them, and maintaining a high output velocity while meeting Pondering Computer's (haha) quality bar.
 
-Let's start by planning our capacity. Set aside 1 week for acquisition, and onboarding. Then,
+Let's start by planning our capacity. Set aside 1 week for acquisition and onboarding. Then,
 $$
 \frac{\text{1000 data points}}{\text{14 days}} = 71.4 \approx \text{72 data points per day}
 $$
@@ -25,7 +25,7 @@ Timeline:
 | Buffer + Final QA | 21   | 1000 approved data points delivered  |
 # 1 | User Acquisition
 ## 1.1 | Recruitment Process
-It's important to note that the Rust community has strong tribal identity: their devs operate like a cult, which we can pander to during acquisition. Our content strategy will aim to speak their language and signal technical credibility. It will have 3 pillars:
+It's important to note that the Rust community has strong tribal identity: their developers operate like a cult, which we can pander to during acquisition. Our content strategy will aim to speak their language and signal technical credibility. It will have 3 pillars:
 
 **Pillar 1: Engagement Bait**
 Purpose: Generate reach and discussion to surface our brand.
@@ -35,9 +35,9 @@ Purpose: Generate reach and discussion to surface our brand.
 
 **Pillar 2: Valuable Resources**
 Purpose: Capture contact info from qualified engineers with genuinely useful content.
-- "Rust Memory Safety Patterns Cheat Sheet": Covers ownership, borrowing, lifetimes, interior mutability. Visual diagrams of memory layout. 
-- "Systems Programming Best Practices Guide": Concurrency patterns, zero-copy techniques, FFI best practices with production examples. Distributed through email with a brief survey (experience, role, interest in contract work).
-- "Deep Dive into SystemsPro Data": What we’re building, why it matters for AI, example problem-solution pairs showing quality bar, transparent comp structure. 
+- Rust Memory Safety Patterns Cheat Sheet: Covers ownership, borrowing, lifetimes, interior mutability. Visual diagrams of memory layout. 
+- Systems Programming Best Practices Guide: Concurrency patterns, zero-copy techniques, FFI best practices with production examples. Distributed through email with a brief survey (experience, role, interest in contract work).
+- Deep Dive into SystemsPro Data: What we’re building, why it matters for AI, example problem-solution pairs showing quality bar, transparent comp structure. 
 
 **Pillar 3: Direct Recruitment**
 Purpose: Personalized outreach to Pillar 2 respondents matching target profile
@@ -117,7 +117,7 @@ Purpose: Personalized outreach to Pillar 2 respondents matching target profile
 | Silent Period   | No activity for 48h                  | Automated nudge + follow-up  |
 ## 3.3 | Quality Assurance
 **Reviewer Criteria**
-QA reviewers: 5+ years Rust experience, calibrated on 10 sample submissions with known ratings, 90%+ interrater agreement required. 10% of reviews double-checked for quality drift.
+5+ years Rust experience, calibrated on 10 sample submissions with known ratings, screened by Datacurve staff. 10% of reviews will be double-checked for quality drift.
 
 **QA Process**
 1.	Submission → Auto-check (tests pass, format correct)
