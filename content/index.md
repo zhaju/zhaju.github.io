@@ -1,7 +1,7 @@
 ---
 title: README
 ---
-I’m Julian, a second  year student at the University of Waterloo studying a Computer Science and Finance. My resume is [here](https://zhaju.github.io/resume.pdf). I'm in SF until the end of April if you'd like to meet!
+I’m Julian, a second year student at the University of Waterloo studying Computer Science and Finance. My resume is [here](https://zhaju.github.io/resume.pdf). I'm in SF until the end of April if you'd like to meet!
 
 Things that I've done since coming to college:
 - Hosted a [Turf Wars / Capture The Flag](https://www.youtube.com/watch?v=Gq2RE4Vaz28) game in Downtown Toronto for 50+ friends
