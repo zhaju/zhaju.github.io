@@ -1,7 +1,7 @@
 ---
 title: README
 ---
-I’m Julian, a second year student at the University of Waterloo studying Computer Science and Finance. My resume is [here](https://zhaju.github.io/resume.pdf). I'm in SF until the end of April if you'd like to meet!
+I’m Julian, a 2nd year Computer Science and Finance student at the University of Waterloo. My resume is [here](https://zhaju.github.io/resume.pdf).
 
 Things that I've done since coming to college:
 - Hosted a [Turf Wars / Capture The Flag](https://www.youtube.com/watch?v=Gq2RE4Vaz28) game in Downtown Toronto for 50+ friends
@@ -20,4 +20,4 @@ Slightly more interesting things about me:
 - I’m about as type A as it gets
 - I love food, and have been cooking for family and friends for 7 years 
 - My room is inhabited by many stuffed animals, including a dog, a moose, and a big polar bear
-- My favourite author is Christopher Hitchens; favourite film is Catch Me If You Can; favourite show is Better Call Saul; favourite artists are NIKI and Noah Kahan; and my favourite place to be is here, right on your screen :)
+- My favourite author is Christopher Hitchens; favourite film is Catch Me If You Can; favourite show is Better Call Saul; favourite artists are NIKI and Noah Kahan; and my favourite place is here, right on your screen :)
