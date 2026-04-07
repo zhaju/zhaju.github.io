@@ -1,5 +1,3 @@
-﻿[AP Physics Classroom](https://apclassroom.collegeboard.org/92)
-
 [S6 Physics Study Doc](https://docs.google.com/document/d/1-qTvowaAHFSe8n4tAcMwvxbl01X5Y6aPufdZRC-CO4A/edit)
 ## 1. Kinematics
 
