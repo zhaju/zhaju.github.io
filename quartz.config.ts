@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       tagId: "G-G9BW44VG41"
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "zhaju.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
