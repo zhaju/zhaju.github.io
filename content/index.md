@@ -18,6 +18,6 @@ Here's what you'll find on this site:
 More interesting things about me:
 - I’m about as type A as it gets
 - I love food, and have been cooking for family and friends for 7 years 
-- I'm a big fan of poker, [competitive Pokemon](https://play.pokemonshowdown.com/), and 2010's era .io games
+- I'm a big fan of poker, competitive Pokemon, and 2010's era .io games
 - My room is inhabited by many stuffed animals, including a dog, a moose, and a big polar bear
 - My favourite author is Christopher Hitchens; favourite film is Catch Me If You Can; favourite show is Better Call Saul; favourite artists are NIKI and Noah Kahan; and my favourite place is here, right on your screen :)
