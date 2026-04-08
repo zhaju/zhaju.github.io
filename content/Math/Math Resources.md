@@ -1,4 +1,4 @@
-I did competitive math for more than 10 years, and wrote many contests (AMCs, AIME, COMC, and CEMC series). My teaching experience includes [schoolhouse.world]([https://schoolhouse.world/](https://schoolhouse.world/u/22832)), running my school’s Math Society, and independent tutoring. Here are some of the handouts I made to help grade 7-12 students learn curriculum and contest math.
+I did competitive math for more than 10 years, and wrote many contests (AMCs, AIME, COMC, and CEMC series). My teaching experience includes [schoolhouse.world](https://schoolhouse.world/u/22832), running my school’s Math Society, and independent tutoring. Here are some of the handouts I made to help grade 7-12 students learn curriculum and contest math.
 # Contest Math
 An 8-part handout designed as an introduction to high school-level contest (AMCs, COMC) made for UTS Math Society (with help from other execs):
 1. [Combinatorics](https://zhaju.github.io/Math/contests/1_Combo.pdf)
