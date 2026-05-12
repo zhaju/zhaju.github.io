@@ -1,6 +1,6 @@
 ---
 title: README
-description: I'm Julian, a CS and Finance student at UWaterloo. This is my personal website.
+description: I'm Julian, a CS and Finance student at Waterloo. This is my personal website.
 ---
 I’m Julian, a second year Computer Science and Finance student at the University of Waterloo.
 
