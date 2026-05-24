@@ -7,6 +7,21 @@ html {
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+body {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
 }
 
 body,
@@ -173,9 +188,35 @@ a {
 
     & .sidebar.left {
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      height: calc(100vh - 2 * $topSpacing);
+      overflow: hidden;
+      justify-content: flex-start;
+
+      & > :not(.explorer) {
+        flex: 0 0 auto;
+      }
+
+      & > .explorer {
+        flex: 0 1 auto;
+        min-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        overflow: hidden;
+      }
+
       @media all and (max-width: $fullPageWidth) {
+        height: auto;
+        overflow: visible;
         gap: 0;
         align-items: center;
+
+        & > .explorer {
+          flex: initial;
+          min-height: initial;
+          display: block;
+          overflow: visible;
+        }
       }
     }
 

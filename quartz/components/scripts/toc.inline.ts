@@ -12,7 +12,28 @@ const observer = new IntersectionObserver((entries) => {
       }
     }
   }
+  scrollTocToCurrent()
 })
+
+function scrollTocToCurrent() {
+  const tocList = document.querySelector("#toc-content > ul") as HTMLElement | null
+  if (!tocList) return
+  if (tocList.scrollHeight <= tocList.clientHeight) return
+
+  const inViewLinks = tocList.querySelectorAll<HTMLElement>("a.in-view")
+  const activeLink = inViewLinks[inViewLinks.length - 1]
+  if (!activeLink) {
+    tocList.scrollTop = 0
+    return
+  }
+
+  const li = activeLink.closest("li") as HTMLElement | null
+  if (!li) return
+
+  const target = li.offsetTop - tocList.clientHeight / 2 + li.offsetHeight / 2
+  const maxScroll = tocList.scrollHeight - tocList.clientHeight
+  tocList.scrollTop = Math.max(0, Math.min(maxScroll, target))
+}
 
 function toggleToc(this: HTMLElement) {
   this.classList.toggle("collapsed")

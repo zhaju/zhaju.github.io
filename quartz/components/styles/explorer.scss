@@ -44,10 +44,18 @@ button#explorer {
 
 #explorer-content {
   list-style: none;
-  overflow: hidden;
+  overflow-y: auto;
   max-height: none;
   transition: max-height 0.35s ease;
   margin-top: 0.5rem;
+  flex: 1 1 auto;
+  min-height: 0;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
 
   &.collapsed > .overflow::after {
     opacity: 0;
@@ -67,6 +75,11 @@ button#explorer {
       pointer-events: all;
     }
   }
+}
+
+#explorer-ul {
+  max-height: none;
+  overflow-y: visible;
 }
 
 svg {
