@@ -18,5 +18,5 @@ unlisted: true
 
 [Siddhesh Mittra](https://www.linkedin.com/in/sid-mittra/)- Researcher, Stanford
 - High school classmate since grade 7, friend for 8 years, I think you’ve had dinner before :)
-- Sid and I have been best friends for the last 8 years. Before the pandemic, he was a chubby kid with no idea of what to do in life; when we returned to school, he had lost all the weight and decided that his life goal was to cure cancer. Since then, he has been the youngest person to ever [publish]() in the Journal of Immunology.
+- Sid and I have been best friends for the last 8 years. Before the pandemic, he was a chubby kid with no idea of what to do in life; when we returned to school, he had lost all the weight and decided that his life goal was to cure cancer. Since then, he has been the youngest person to ever [publish](https://academic.oup.com/jimmunol/article-abstract/211/6/907/7925062?redirectedFrom=fulltext&login=false) in the Journal of Immunology.
 - He is currently a YC Summer Fellow and researcher at the Stanford School of Medicine. He has [published](https://www.biorxiv.org/content/10.1101/2025.11.20.689421v1) more papers and held research positions at the University of Toronto and UC San Diego. I think he will succeed because of his relentless passion, risk tolerance, high agency, and kindness.
