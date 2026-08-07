@@ -32,10 +32,6 @@ button#toc {
   transition: max-height 0.5s ease;
   position: relative;
 
-  &.collapsed > .overflow::after {
-    opacity: 0;
-  }
-
   & ul {
     list-style: none;
     margin: 0.5rem 0;

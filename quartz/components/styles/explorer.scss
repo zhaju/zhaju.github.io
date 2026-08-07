@@ -57,10 +57,6 @@ button#explorer {
     display: none;
   }
 
-  &.collapsed > .overflow::after {
-    opacity: 0;
-  }
-
   & ul {
     list-style: none;
     margin: 0.08rem 0;
@@ -147,15 +143,4 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 
 .folder-icon:hover {
   color: var(--tertiary);
-}
-
-.no-background::after {
-  background: none !important;
-}
-
-#explorer-end {
-  // needs height so IntersectionObserver gets triggered
-  height: 4px;
-  // remove default margin from li
-  margin: 0;
 }

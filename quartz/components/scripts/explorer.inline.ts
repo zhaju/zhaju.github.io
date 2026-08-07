@@ -2,18 +2,6 @@ import { FolderState } from "../ExplorerNode"
 
 type MaybeHTMLElement = HTMLElement | undefined
 let currentExplorerState: FolderState[]
-const observer = new IntersectionObserver((entries) => {
-  // If last element is observed, remove gradient of "overflow" class so element is visible
-  const explorerUl = document.getElementById("explorer-ul")
-  if (!explorerUl) return
-  for (const entry of entries) {
-    if (entry.isIntersecting) {
-      explorerUl.classList.add("no-background")
-    } else {
-      explorerUl.classList.remove("no-background")
-    }
-  }
-})
 
 function toggleExplorer(this: HTMLElement) {
   this.classList.toggle("collapsed")
@@ -101,13 +89,6 @@ function setupExplorer() {
 window.addEventListener("resize", setupExplorer)
 document.addEventListener("nav", () => {
   setupExplorer()
-  observer.disconnect()
-
-  // select pseudo element at end of list
-  const lastItem = document.getElementById("explorer-end")
-  if (lastItem) {
-    observer.observe(lastItem)
-  }
 })
 
 /**
