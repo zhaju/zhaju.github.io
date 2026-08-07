@@ -21,7 +21,6 @@ I ended up building something that solves both the customer-side visualization p
 Deployment: [https://snugglers.vercel.app/](https://snugglers.vercel.app/)  
 Demo: [https://www.youtube.com/watch?v=x9ru5uvTLNA](https://www.youtube.com/watch?v=x9ru5uvTLNA)
 
-![](snugglers.png)
 # 3) Distribution: Write a GTM plan
 Garry said that furniture is “a little like fashion”, since there are constantly changing colors, palettes, and textures that you have to keep up with. Because of this, he attends furniture shows 2-3 times a year along with hundreds of other furniture store owners. These shows are located mainly in High Point, North Carolina (the “[furniture capital of the world](https://en.wikipedia.org/wiki/High_Point_Market)”), as well as Las Vegas and Milan in Italy. If I were to launch my product in 3 months, I would certainly set up a table with an interactive live demo at a furniture store.
 
