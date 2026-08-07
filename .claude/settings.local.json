@@ -3,7 +3,11 @@
     "allow": [
       "Bash(git stash *)",
       "Bash(npx quartz *)",
-      "Bash(git ps *)"
+      "Bash(git ps *)",
+      "Bash(git ls-remote *)",
+      "Bash(git fetch *)",
+      "Bash(grep -n \"if: \\\\${{ github.repository\" .github/workflows/ci.yaml)",
+      "PowerShell($gh = Get-Command gh -ErrorAction SilentlyContinue; if \\($gh\\) { \"gh installed: $\\($gh.Source\\)\"; gh --version } else { \"gh NOT installed\" }; \"--- git version ---\"; git --version)"
     ]
   }
 }
