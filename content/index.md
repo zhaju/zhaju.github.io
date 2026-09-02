@@ -7,7 +7,7 @@ I’m Julian, a second year Computer Science and Finance student at the Universi
 Since coming to college, I:
 - Hosted a game of [Turf Wars / Capture The Flag](https://www.youtube.com/watch?v=Gq2RE4Vaz28) Downtown Toronto for 50+ friends
 - Became a shill for a [cereal brand](https://news.kalshi.com/authors/julian-zhang) and a [French LLM](https://www.instagram.com/claudeuwaterloo/)
-- Wrote 50k+ words, some of which you can read [here](https://zhaju.substack.com/)
+- Wrote 50k+ words, some of which you can read [here](https://zhaju.substack.com/) and [here](https://research.contrary.com/search/julian%20zhang)
 - Met some amazing people
 
 Here's what you'll find on this site:
