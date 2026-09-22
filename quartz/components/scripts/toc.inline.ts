@@ -1,27 +1,43 @@
-const bufferPx = 150
-const observer = new IntersectionObserver((entries) => {
-  for (const entry of entries) {
-    const slug = entry.target.id
-    const tocEntryElement = document.querySelector(`a[data-for="${slug}"]`)
-    const windowHeight = entry.rootBounds?.height
-    if (windowHeight && tocEntryElement) {
-      if (entry.boundingClientRect.y < windowHeight) {
-        tocEntryElement.classList.add("in-view")
-      } else {
-        tocEntryElement.classList.remove("in-view")
-      }
-    }
+type TocHeading = { header: HTMLElement; link: HTMLElement }
+
+let headings: TocHeading[] = []
+let activeLink: HTMLElement | null = null
+let pendingUpdate = false
+
+// scroll-driven rather than IntersectionObserver based: when scrolling fast a header
+// can cross the whole viewport within a single frame, in which case its intersection
+// state never changes and no entry is ever delivered, leaving `in-view` stale
+function updateTocHighlight() {
+  pendingUpdate = false
+  if (headings.length === 0) return
+
+  // read every position first so the class writes below don't interleave with layout
+  const windowHeight = window.innerHeight
+  const inView = headings.map(({ header }) => header.getBoundingClientRect().top < windowHeight)
+
+  let current: HTMLElement | null = null
+  headings.forEach(({ link }, i) => {
+    link.classList.toggle("in-view", inView[i])
+    if (inView[i]) current = link
+  })
+
+  if (current !== activeLink) {
+    activeLink = current
+    scrollTocToCurrent()
   }
-  scrollTocToCurrent()
-})
+}
+
+function requestTocUpdate() {
+  if (pendingUpdate) return
+  pendingUpdate = true
+  requestAnimationFrame(updateTocHighlight)
+}
 
 function scrollTocToCurrent() {
   const tocList = document.querySelector("#toc-content > ul") as HTMLElement | null
   if (!tocList) return
   if (tocList.scrollHeight <= tocList.clientHeight) return
 
-  const inViewLinks = tocList.querySelectorAll<HTMLElement>("a.in-view")
-  const activeLink = inViewLinks[inViewLinks.length - 1]
   if (!activeLink) {
     tocList.scrollTop = 0
     return
@@ -55,12 +71,27 @@ function setupToc() {
   }
 }
 
-window.addEventListener("resize", setupToc)
+function onResize() {
+  setupToc()
+  requestTocUpdate()
+}
+
+window.addEventListener("resize", onResize)
 document.addEventListener("nav", () => {
   setupToc()
 
   // update toc entry highlighting
-  observer.disconnect()
-  const headers = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]")
-  headers.forEach((header) => observer.observe(header))
+  headings = []
+  activeLink = null
+  document
+    .querySelectorAll<HTMLElement>("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]")
+    .forEach((header) => {
+      const link = document.querySelector(`a[data-for="${header.id}"]`) as HTMLElement | null
+      if (link) headings.push({ header, link })
+    })
+
+  window.addEventListener("scroll", requestTocUpdate, { passive: true })
+  window.addCleanup(() => window.removeEventListener("scroll", requestTocUpdate))
+
+  updateTocHighlight()
 })
