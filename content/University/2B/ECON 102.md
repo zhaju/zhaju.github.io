@@ -325,7 +325,7 @@ $$
 - **Lorenz curve:** This is a line chart that illustrates the cumulative income share of the population as a function of the proportion of the population. For example, the points (0.05, 0.10) and (0.60, 0.50) on the Lorenz curve mean that 10% of the poorest individuals share 5% of total income of the economy and 50% share 60% of total income.
 - **Low income measure (LIM):** This is equal to half the median of income. It is one of the measures of the poverty line. Individuals with income less than the LIM are considered below the poverty line.
 - **Market basket measure (MBM):** This is the value of a basket of goods used in one definition of the poverty line. Individuals with income less than the MBM are considered below the poverty line.
-- **Median:** This is a number that separates the distribution of a variable in two equal groups. For example, the median of income in Canada is $40,000 if income is less then $40,000 for 50% of the population and it is higher for the other 50%.
+- **Median:** This is a number that separates the distribution of a variable in two equal groups. For example, the median of income in Canada is \$40,000 if income is less then \$40,000 for 50% of the population and it is higher for the other 50%.
 - **Per capita:** This is a Latin word that means by head. For example, the per capita income is the average income by individual.
 - **Quintile:** When the population is divided into five equal groups ordered with respect to a variable, the groups are called quintiles. For example, the first income quintile is one fifth (20%) of the population with the lowest income.
 ## 7.1 | Income Inequality

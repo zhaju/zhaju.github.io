@@ -971,7 +971,7 @@ $$
 
 | Alternative hypothesis | Discrepancy measure                                | p-value             |
 | ---------------------- | -------------------------------------------------- | ------------------- |
-| $\mu\neq\mu_0$         | $D^\neq (y)=\| \frac{\bar{y}-\mu_0}{s/\sqrt{n}}\|$ | $p=2(1-P(T\leq d))$ |
+| $\mu\neq\mu_0$         | $D^{\neq}(y)=\| \frac{\bar{y}-\mu_0}{s/\sqrt{n}}\|$ | $p=2(1-P(T\leq d))$ |
 | $\mu>\mu_0$            | $D^>(y)=\frac{\bar{y}-\mu_0}{s/\sqrt{n}}$          | $p=1-P(T\leq d)$    |
 | $\mu<\mu_0$            | $D^<(y)=\frac{\mu_0-\bar{y}}{s/\sqrt{n}}$          | $p=1-P(T\leq d)$    |
 

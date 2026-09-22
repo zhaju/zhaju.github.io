@@ -643,7 +643,7 @@ proj_{\vec{v}}\vec{u}=c\vec{v}=\frac{||\vec{u}||\cos\theta}{||\vec{v}||}\vec{v}=
 $$
 > Definition: Perpendicular / "the perpendicular of $\vec{u}$ onto $\vec{v}$"
 $$
-perp_{\vec{v}}(\vec{u})=\vec{u}-proj_\vec{v}(\vec{u})
+perp_{\vec{v}}(\vec{u})=\vec{u}-proj_{\vec{v}}(\vec{u})
 $$
 
 Deriving the Projection Formula:
@@ -660,12 +660,12 @@ $$
 Ex 1.3.0: Prove that
 $$
 \begin{align}
-proj_\vec{v}(2\vec{x}-3\vec{y})&=2proj_\vec{v}(\vec{x})-3proj_\vec{v}(\vec{y}) \\
+proj_{\vec{v}}(2\vec{x}-3\vec{y})&=2proj_{\vec{v}}(\vec{x})-3proj_{\vec{v}}(\vec{y}) \\
 &=\frac{(2\vec{x}-3\vec{y})\cdot\vec{v}}{||\vec{v}||^2}\vec{v} \\
 &=\frac{2(\vec{x}\cdot\vec{v})-3(\vec{y}\cdot\vec{v})}{||\vec{v}||^2}\vec{v} \\
 &= (\frac{2(\vec{x}\cdot\vec{v})}{||\vec{v}||^2} - \frac{3(\vec{y}\cdot\vec{v})}{||\vec{v}||^2})\vec{v} \\
 &= \frac{2(\vec{x}\cdot\vec{v})}{||\vec{v}||^2}\vec{v} - \frac{3(\vec{y}\cdot\vec{v})}{||\vec{v}||}\vec{v} \\
-&= 2proj_\vec{v}(\vec{x})-3proj_\vec{v}(y)
+&= 2proj_{\vec{v}}(\vec{x})-3proj_{\vec{v}}(y)
 \end{align}
 $$
 # 2 | Systems of Linear Equations
@@ -1250,7 +1250,7 @@ $$
 > Definition: Reflection
 > Let $refl_p:\mathbb{R}^n\to\mathbb{R}^n$ denote the mapping that sends a vector $\vec{x}$ to its mirror image in the hyperplane $P$ with the normal vector $\vec{n}$.
 $$
-refl_p(\vec{x})=\vec{x}-2proj_\vec{n}(\vec{x})
+refl_p(\vec{x})=\vec{x}-2proj_{\vec{n}}(\vec{x})
 $$
 ## 3.3 | Special Subspaces
 ### Range and onto

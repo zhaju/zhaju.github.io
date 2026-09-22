@@ -195,7 +195,7 @@ MPS = 1-MPC
 $$
 Total increase in real GDP =
 $$
-(1+MPC+MPC^2+MPC^3+\ldots)\times$100b
+(1+MPC+MPC^2+MPC^3+\ldots)\times \$100b
 $$
 $$
 \text{Total} = \frac{1}{1-MPC} \times \text{Principal}=\frac{1}{MPS}
