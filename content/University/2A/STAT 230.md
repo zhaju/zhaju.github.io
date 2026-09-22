@@ -6,8 +6,6 @@ Cecilia Cotton
 
 15% quizzes (3/5) | 25% midterm | 15% midterm | 45% final
 ```
-
-[Anthony Zhang](https://anthony-zhang.me/University-Notes/STAT230/STAT230.html)
 # 1 | Introduction to Probability
 ## 1.1 | Definitions of Probability
 This course is a probability course, not a statistics course (STAT 231)

@@ -4,8 +4,6 @@ TTH 2:30PM - 3:50PM
 SJ2 1004
 Lutz Busch (?)
 ```
-
-[Anthony Zhang](https://anthony-zhang.me/University-Notes/ECON101/ECON101.html)
 # 1 | Four Core Principles
 Four Economic Principles
 1. Cost-benefit principle
