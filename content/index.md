@@ -2,7 +2,7 @@
 title: README
 description: I'm Julian, a CS and Finance student at Waterloo.
 ---
-I’m Julian, a second year Computer Science and Finance student at the University of Waterloo.
+I’m Julian, a third year Computer Science and Finance student at the University of Waterloo.
 
 Since coming to college, I:
 - Hosted a game of [Turf Wars / Capture The Flag](https://www.youtube.com/watch?v=Gq2RE4Vaz28) Downtown Toronto for 50+ friends
