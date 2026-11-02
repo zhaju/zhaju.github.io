@@ -5,7 +5,7 @@ description: I'm Julian, a CS and Finance student at Waterloo.
 I’m Julian, a third year Computer Science and Finance student at the University of Waterloo.
 
 Since coming to college, I:
-- Hosted a game of [Turf Wars / Capture The Flag](https://www.youtube.com/watch?v=Gq2RE4Vaz28) Downtown Toronto for 50+ friends
+- Hosted a game of [Capture The Flag](https://www.youtube.com/watch?v=Gq2RE4Vaz28) in Downtown Toronto for 50+ friends
 - Wrote 50k+ words, some of which you can read [here](https://zhaju.substack.com/) and [here](https://research.contrary.com/search/julian%20zhang)
 - Became a shill for a [cereal brand](https://news.kalshi.com/authors/julian-zhang) and a [French LLM](https://www.instagram.com/claudeuwaterloo/)
 - Met some amazing people
