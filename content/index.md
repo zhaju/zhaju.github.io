@@ -21,4 +21,4 @@ More interesting things about me:
 - I love food, and have been cooking for family and friends for 8 years 
 - I'm a big fan of poker, competitive Pokémon, and 2010's era .io games
 - My room is inhabited by many stuffed animals, including a lobster, a moose, and a big polar bear
-- My favourite favourite film is Catch Me If You Can; favourite show is Better Call Saul; favourite artist is Noah Kahan; and my favourite place is here, right on your screen :)
+- My favourite favourite film is Catch Me If You Can; favourite show is Better Call Saul; favourite artist is Noah Kahan; and my favourite place is right here :)
